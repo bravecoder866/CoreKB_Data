@@ -1,0 +1,33 @@
+1. https://github.com/qeeqbox/social-analyzer
+
+    Social Analyzer - API, CLI, and Web App for analyzing & finding a person's profile across +1000 social media \ websites. It includes different analysis and detection modules, and you can choose which modules to use during the investigation process.
+
+    The detection modules utilize a rating mechanism based on different detection techniques, which produces a rate value that starts from 0 to 100 (No-Maybe-Yes). This module is intended to have fewer false positives.
+
+    The analysis and public extracted information from this OSINT tool could help investigate profiles related to suspicious or malicious activities such as cyberbullying, cyber grooming, cyberstalking, and spreading misinformation.
+
+    This project is currently used by some law enforcement agencies in countries where resources are limited - The detection database is different than the one shared here..
+
+2. Social media 
+
+    social media companies all have profiles of their users, which are not free to access.
+    Linkedin, Facebook, Instagram, X, reddit, youtube, whatsapp etc.
+
+3. Government
+
+   government agencies have authoritative, reliable profile of citizens, residents and visitors.
+
+4. businesses
+    Online or offline businesses have profiles of their users, customers, which are not free to access.
+
+5. academic institution
+
+    schools have profiles of students and teachers.
+
+6. organizations & communities
+
+    all organizations have profiles of their employees. All communities have profiles of their members.
+
+7. families and friends
+    They have deep-down knowledge of preferences of people in their circle but not a written record.
+    
