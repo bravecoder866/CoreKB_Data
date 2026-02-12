@@ -1,0 +1,141 @@
+event: a specific occurrence, happening, or change in state that takes place at a particular point in space and time. It is the basic unit we use to mark that something has happened, distinguishing a moment of action or significance from the background flow of time. It usually requires four core components.
+a boundary which has a discernible beginning and an end, not a permanent state; a change that something is different after the event than it was before; a context that happens to someone or something in a specific location. a time-stamp that it is localized to a specific moment or duration.
+
+
+event/human-initiated destabilizing event: happenings that unsettle the routines and expectations of citizens, cause them to be fearful, and raise their anxiety about the future.
+
+event/human-initiated destabilizing event/political expression: public articulation by non-governmental actors of threatening or unwelcome political messages such as speeches, written or digital statements, demonstrations, strikes, symbolic acts.
+
+event/human-initiated destabilizing event/politically motivated attacks: physical acts carried out by humans for political reasons intended to damage people or property including things like riots, brawls, assassinations, kidnappings, attacks on people or property, attempted orconspired attacks.
+
+event/human-initiated destabilizing event/disruptive state acts: Extraordinary acts by government or ordinary acts performed with malfeasance, including failure to perform routine duties such as censorship, curfews, states of emergency, disruptive coercion or punitive actions.
+
+event/human-initiated destabilizing event/political power reconfigurations: Changes in upper-echelon national government officials and/or national constitutions; includes both realized changes and unrealized efforts such as failed coups or defeated constitutional changes.
+
+event/political coup/military coup: A seizure of executive power led by the armed forces, typically by removing or detaining the sitting leadership outside constitutional procedures.
+
+event/political coup/junta takeover: A coup where a group of senior officers collectively assumes control as a ruling council rather than transferring power to a civilian authority.
+
+event/political coup/security-services coup: A power grab led primarily by internal security forces or intelligence services rather than the regular military.
+
+event/political coup/police coup: A coup driven by police leadership or units that seize state institutions and force political change outside legal channels.
+
+event/political coup/palace coup: A leadership replacement carried out by insiders within the ruling elite, party, court, or executive circle with minimal public mobilization.
+
+event/political coup/party coup: A takeover organized within the ruling party that removes the leader and captures the state through internal control of institutions rather than elections.
+
+event/political coup/elite civilian coup: An extraconstitutional takeover led by civilian political elites or oligarchic networks that bypass normal electoral or succession rules.
+
+event/political coup/self-coup: An incumbent leader illegally concentrates power by dissolving or neutralizing other branches of government to rule with fewer constraints.
+
+event/political coup/constitutional coup: A takeover that uses legal-looking steps or emergency powers to undermine democratic checks and entrench power while claiming formal legality.
+
+event/political coup/judicial coup: A power shift driven by courts or prosecutors that removes or disqualifies leaders through politicized legal action that effectively overturns electoral or constitutional outcomes.
+
+event/political coup/parliamentary coup: A seizure of power via legislative maneuvers that subvert democratic or constitutional norms, such as coerced impeachments or irregular votes to remove leadership.
+
+event/political coup/soft coup: A non-tank, low-violence takeover that relies on institutional pressure, coercion, and political engineering rather than overt military rule.
+
+event/political coup/putsch: A sudden, often poorly coordinated coup attempt by a faction that aims to seize key sites and declare a new authority.
+
+event/political coup/counter-coup: A coup launched to reverse or neutralize a prior coup, restoring the previous government or installing a different new regime.
+
+event/political coup/failed coup attempt: A coup operation that does not secure control of the executive and key coercive institutions and is defeated or collapses.
+
+event/political coup/successful coup: A coup operation that secures control over the executive and coercive apparatus and is able to govern or dictate succession.
+
+event/political coup/foreign-backed coup: A coup enabled materially or operationally by external actors through funding, training, intelligence, or direct intervention.
+
+event/political coup/election-cancelation coup: A power grab where authorities block, annul, or refuse to accept election outcomes and retain power outside constitutional remedies.
+
+event/political coup/emergency-rule coup: A takeover where emergency powers are used to suspend rights, sideline institutions, and prevent lawful political competition to keep or seize control.
+
+event/civil unrest/protest demonstration: A public gathering to express support or opposition to an issue, policy, or actor, typically nonviolent.
+
+event/civil unrest/march: A moving demonstration where participants walk along a route to draw attention and visibility.
+
+event/civil unrest/rally: A planned assembly (often with speeches) meant to mobilize supporters or signal collective strength.
+
+event/civil unrest/vigil: A stationary gathering, often solemn, to mourn, commemorate, or show solidarity.
+
+event/civil unrest/sit-in: A protest where participants occupy a space by sitting and refusing to leave, disrupting normal use.
+
+event/civil unrest/occupation: A sustained takeover of a building or public space to pressure authorities or institutions.
+
+event/civil unrest/blockade: The intentional obstruction of roads, facilities, or access points to halt traffic or operations.
+
+event/civil unrest/road closure: A protest action that prevents passage on a roadway, sometimes using barricades or parked vehicles.
+
+event/civil unrest/strike: A coordinated work stoppage by employees to demand changes in wages, conditions, or policy.
+
+event/civil unrest/general strike: A large-scale strike across multiple sectors intended to pressure government or the broader economy.
+
+event/civil unrest/walkout: A sudden, often short, collective exit from work or school as a statement or demand.
+
+event/civil unrest/sickout: A coordinated absence framed as illness, used as an informal strike tactic.
+
+event/civil unrest/slowdown: A labor tactic where workers deliberately reduce productivity without stopping work entirely.
+
+event/civil unrest/boycott: Refusal to buy or use products/services to pressure a company or government.
+
+event/civil unrest/divestment campaign: An organized effort to get institutions to withdraw investments to apply reputational and financial pressure.
+
+event/civil unrest/civil disobedience: Deliberate, nonviolent law-breaking (e.g., trespass, curfew violation) to protest perceived injustice.
+
+event/civil unrest/trespass protest: Entering or remaining on restricted/private property to disrupt operations or gain attention.
+
+event/civil unrest/refusal to disperse: Protesters remain after being ordered to leave, increasing the likelihood of enforcement action.
+
+event/civil unrest/barricading: Constructing physical barriers to block access, movement, or police entry.
+
+event/civil unrest/clash with police: Physical confrontation between demonstrators and security forces, with force used by one or both sides.
+
+event/civil unrest/riot: A chaotic, crowd-based disturbance involving violence, destruction, or uncontrolled disorder.
+
+event/civil unrest/looting: Theft of goods during unrest, often targeting shops, warehouses, or supply chains.
+
+event/civil unrest/vandalism: Intentional damage to property (graffiti, breaking windows, defacing buildings) for protest or intimidation.
+
+event/civil unrest/arson: Deliberate setting of fires to damage property or escalate disruption.
+
+event/civil unrest/property destruction: Broad category for damaging infrastructure, vehicles, buildings, or equipment during unrest.
+
+event/civil unrest/stone throwing: A common crowd tactic involving thrown objects that can injure people or damage property.
+
+event/civil unrest/use of fireworks: Using fireworks as projectiles or intimidation tools during confrontations.
+
+event/civil unrest/violent intimidation: Threats or coercion aimed at civilians, officials, or groups to control behavior during unrest.
+
+event/civil unrest/hate mob violence: Crowd violence targeting a group based on identity (ethnicity, religion, nationality, etc.).
+
+event/civil unrest/communal clash: Fighting between two or more civilian groups, often driven by identity or local grievances.
+
+event/civil unrest/lynching: Extrajudicial crowd killing of an individual, often tied to rumor, identity hate, or vigilantism.
+
+event/civil unrest/mob justice: Collective punishment or assault by civilians acting outside legal process.
+
+event/civil unrest/mass panic stampede: Crowd surge causing injuries/deaths, sometimes triggered by unrest, policing, or rumor.
+
+event/civil unrest/curfew violation: Large-scale public movement or gathering in defiance of an imposed curfew.
+
+event/civil unrest/state of emergency unrest: Unrest occurring under emergency rules, often involving heightened enforcement and restrictions.
+
+event/civil unrest/online-incited mobilization: Rapid gatherings driven by social media calls, sometimes outpacing formal organization.
+
+event/civil unrest/flash protest: A quickly assembled demonstration that forms and disperses rapidly to avoid policing or gain surprise.
+
+event/civil unrest/campus unrest: Student-led disruption (walkouts, sit-ins, building occupations) centered on schools/universities.
+
+event/civil unrest/prison riot: Violent disorder within a detention facility involving inmates (and sometimes staff) and facility damage.
+
+event/civil unrest/mutiny (security forces): Refusal of orders or collective insubordination by police/military units that can trigger wider unrest.
+
+event/civil unrest/post-election unrest: Protests and disturbances linked to election outcomes, fraud allegations, or political transitions.
+
+event/civil unrest/austerity protest: Demonstrations and strikes driven by spending cuts, subsidy removal, or welfare reductions.
+
+event/civil unrest/price hike protest: Unrest sparked by sharp increases in essentials (fuel, food, transport, housing).
+
+event/civil unrest/anti-corruption protest: Mobilization demanding accountability, resignation, or reforms over corruption claims.
+
+event/civil unrest/secessionist street unrest: Civil mobilization connected to separatist demands, sometimes overlapping with organized insurgency.

@@ -1,0 +1,222 @@
+organization/team: a group of people that has its own functions with responsibilities, authorities and relationships to achieve its objectives. A team is a mini organization. An organization can consist of many teams.
+
+mission: the purpose of the organization and what to achieve fundamentally; mission should guide everything of an organization.
+
+vision: the inspiring description of the image of what the achieved mission will look like.
+
+value: the core beliefs as guiding principles of an organization, which impact the choices of an organization in achieving its mission.
+
+goal: the expected outcome of the organization activities in the course of pursuing its mission. It can be short-term (annual goal), mid-term (2-5 years goal) or long-term (more than 5 years goal). 
+
+objective: the break-down of a goal that is the more specific components and/or milestones.
+
+plan: the organization activities to be engaged for achieving a goal.
+
+strategy: the unique positioning that differentiates an organization from competitors to gain advantage and achieve the goal.
+
+operational policies: the documented official directives of an organization on how the organization should be operated, usually published in writing and enforced by imposing certain punishments when violated. They cover all important aspects of an organization.
+
+operational processes: the documented steps and patterns of how things are handled, following the related operational policies if existing.
+
+operational practices: the steps and patterns of how things are handled, usually undocumented but generally practiced.
+
+organization structure: the way by which the authorities, responsibilities and roles are assigned and grouped. Large organizations use multiple types of structure to maximize the benefits and minimize the downsides based on their needs.
+
+organization structure/hierarchical: having a chain of command connecting different levels of management with different levels of authority. It looks pyramid-shaped, typical for a larger organization. The decision-making process is formal and top down. As the organization grows, the number of levels increases and the structure grows taller. It defines clear reporting lines, roles and responsibilities, accountability, and clear career paths; gives the opportunities for employees to specialize in their field; excercises close supervision of employees through a narrow span of managerial control and a culture of loyalty. However, this rigid and hierarchical structure can increase bureaucracy, slow down decision-making, delay communication and disconnect employees from top-level management. It lacks flexibility to adapt and tends to cause employees to act in the interest of their department instead of the organization as a whole. It also increases operational costs.
+
+organization structure/flat or horizontal: having a short chain of command with fewer or no levels between the top management and the frontline staff. Typical for a small or medium-sized organization, there is less hierarchy and the span of control of each management level is wide. It reduces bureaucracy, allows fast decision-making and fosters open communication. It enhances adaptability, employee autonomy and encourages innovation while reducing the operation cost. However, due to the wide span of control, there is less access for employees to managers since one manager has many reports. It can be difficult to maintain once the company grows bigger.
+
+organization structure/functional: grouped by functions based on areas of specialization such as production, marketing, sales, finance,  IT etc.. It enhances productivity and accountability because each department and their staff have a clear role and focus on certain areas of activities, expertise and skills. However it can also create silos within an organization and hampers communication and coordination between functional departments, or result in lack of customized processes and strategies for different markets, products or services.
+
+organization structure/divisional: grouped by divisions based on products, markets or geographical areas. It allows flexible and fast responses to industry and market changes or customer needs as divisions have more independence and autonomy. However, it can lead to duplicate resources, internal competition between divisions and insufficient communication between the headquarters and divisions.
+
+organization structure/process-based: grouped based on processes which is a sequence of activities of producing and delivering products or providing services. Process owners are assigned. It can eliminate silos and foster collaboration. It is more flexible than hierarchical structure and strives for continuous process improvements for innovation and cost-reduction.  
+
+organization structure/matrix: having multiple reporting lines i.e. a staff or team reports to more than one managers of different departments or divisions. It enhances collaboration between different departments or divisions and strengthens organizational control. It is flexible for organizations to work on projects which need staff from different departments or divisions. It gives opportunities for employees to develop new skills. However, it can cause confusion between multiple managers about their managerial scope as well as confusion for employees on how to divide their time and prioritize between their different roles. It can slow down the decision-making process due to multiple reporting lines and makes it difficult to conduct performance reviews on the employees if managers have different views.
+
+organization structure/circular: leaders seated at the center of the organization and in the inner circle send orders outward, rather than down the chain of command, to the employees in the outer circle. It encourages communication and collaboration in the organization but can cause confusion around the reporting lines and slow down the decision-making.
+
+organization structure/network: outsourcing many functions to third parties and only focusing on the core function. It allows the organization to focus on what it is best at and lower the cost. However, it can quickly become overly complex and make it more difficult for employees to know who has final say.
+
+organization structure/team-based: grouped into skills-based teams to work on specific tasks toward a common goal. As a flexible structure, employees move from team to team as they complete projects. It focuses on problem-solving and employee cooperation. It fits well with an agile organization. It enables decision-making with minimal management, allows flexibility to move, focuses on experience instead of seniority and breaks down silos. However it increases potential for conflict and decreases consistency.
+
+interpersonal relationship status in organization: the status of relationship between individuals in the context of working in an organization.
+
+interpersonal relationship status in organization/confidant: based on trust, one organization member feels comfortable in confiding secrets to, sharing private thoughts and getting relevant advice from another organization member.
+
+interpersonal relationship status in organization/mentor-mentee:one organization member as mentor shares their knowledge, skills, and experience with and gives support and guidance to another member as mentee to help them to progress and grow. 
+
+interpersonal relationship status in organization/sponsor-protege: one organization member as sponsor takes an active role in advancing the career progression and growth of another organization member as protege. The sponsor could be the supervisor or the protege, the leader of an adjacent organization unit, or even a top organization leader.
+
+interpersonal relationship status in organization/direct reporting: an organization member as subordinate reports directly to another member as direct supervisor. The subordinate is required to follow the directions of the direct supervisor on day-to-day task assignment and all other work-related goals and requirements. The supervisor provides guidance and conditions for the subordinate to handle work and also reviews and assesses the job performance of the subordinate, and takes actions such as promotion, bonus, reward or punishment. The subordinate may be a deputy or successor of the supervisor or a key team member.
+
+interpersonal relationship status in organization/functional reporting: an organization member as subordinate reports to another member as functional supervisor only on professional-related topics, programs, projects and strategies etc. rather than day-to-day work. The functional supervisor normally gives input to the direct supervisor about the performance of the subordinate.
+
+interpersonal relationship status in organization/multiple reporting: an organization member reports as a subordinate to two or more other members as supervisors at the same time. Normally there is a clear definition of scopes of each reporting line. However, sometimes there is no clear definition, which may cause confusions or conflicts for the subordinate and supervisors. 
+
+interpersonal relationship status in organization/next level reporting: one organization member is another member’s supervisor’s supervisor or even higher level of supervisor. The higher-ups sometimes may cross over the hierarchical levels and assign a task to or inquire of a lower-level staff member. They may also interact on skip-level meetings or on certain matters on a case-by-case basis. 
+
+interpersonal relationship status in organization/de facto reporting: there is no official reporting line between two organization members however one member in reality reports to another member. 
+
+interpersonal relationship status in organization/temporary reporting: one organization member reports to another organization member on a temporary basis. Sometimes it happens when one member is assigned to a project team where the member reports to the project leader till the project completes.
+
+interpersonal relationship status in organization/peers: two organization members work in the same team and report to the same supervisor. However, one of them may be more senior in experience, expertise or has higher status in the team than the other one. 
+
+interpersonal relationship status in organization/colleagues: two organization members do not work in the same team or report to the same supervisor, however they need to cooperate on certain tasks, workflows or processes. 
+
+interpersonal relationship status in organization/collaboration effectiveness: the degree of success of collaboration in goal achievement, task completion or problem solving between organization members.
+
+interpersonal relationship status in organization/collaboration efficiency: the degree of productivity of collaboration between organization members
+
+interpersonal relationship status in organization/collaboration satisfaction: the degree of happiness and smoothness of collaboration between organization members. 
+
+governance: the system by which an organization is directed and controlled i.e. having the appropriate people, processes and structures to direct and manage the organization to enhance long-term shareholder value or long-term success of the organization, whilst taking into account the interests of other stakeholders including employees, investors, customers, vendors, governments, communities and the general public. The tenets of good governance include accountability, transparency, fairness, and sustainability. The board of directors plays a major role in governance. Specifically: determine the purpose, mission, value and strategic goals of the organization; establish the highest authority of an organization e.g. board of directors, and its working mechanism; select the top management e.g. CEO, including hiring, appointing, changing, oversight, compensation and performance review of them; specify the division of authority and responsibilities between the board of directors and top management, and the relationship between them; oversight of the organization’s performance in the context of its strategic goals; balance and align interests among stakeholders; conduct regular internal and external audit and act upon the result; set up good risk management, internal control, and compliance etc.; set up good communication, information flow and reporting including financial reporting internally and externally.
+
+politics: the activities that each organization member engages in to acquire and use power, to influence others to gain a desired outcome. It is related to power distribution, power change and power competition. The ways to obtain, keep and exercise power may include: get promotion to have a higher level of authority; become a protege of a powerful organization member join a coalition; build relationships with other organization members and other stakeholders; become a key or influential node in a useful network; negotiate with and persuade people to make a decision or take an action; collusion; withhold key information from people who should have such information; whistle-blowing; back-stabbing; spread rumors; leak confidential or private information; exchange favors with others for mutual benefits; lobby on behalf of or against an individual or group; falsify or twist information to influence a decision or behavior; intimidate people to change their attitude, decision or behavior; deceive people to do something or not to do something and many others. Note that some of the examples in the above are unethical or illegal.
+
+funding/retained earnings: profit from organizational activities and operation.
+
+funding/borrow debt: money borrowed from banks or other sources.
+
+funding/equity: money contributed by shareholders purchasing equity or shares of the organization.
+
+funding/grant: money granted by the governments to support the industry development, including tax rebate etc.
+
+funding/donation: money donated from donors.
+ 
+resources:  assets, knowledge & technology, brands, partners, customers base, distribution network, supply network, government licenses, community support, public relations etc.
+
+budget: a comprehensive estimation of the expenses and revenues of an organization for a given period e.g. a financial year or quarter.
+
+performance: the result of an organization's activities in terms of its goal achievement; often measured by a certain set of key performance index (KPI).
+
+challenge: the hurdles and roadblocks that impede the smooth functioning of an organization in achieving its goal.
+
+size: generally categorized into micro, small, medium, large sizes measured by certain metrics such as annual revenues, number of employees or market values etc.
+
+lifecycle: a cycle that an organization usually goes through, including birth, growth, maturity, decline, dissolve or revival via reorganization, mergers and acquisition etc.
+
+leadership: leaders ability and style to direct others’ attitudes and behaviors.
+
+autocratic leadership: leaders make decisions without seeking input from organization members,  and give orders for organization members to execute. It enables quick and decisive action in urgent situations, provides clear direction and instructions, and minimizes ambiguity. However it may leave organization members feeling disengaged or undervalued, impede the generation of fresh ideas and diverse perspectives. It is stressful for leaders because they have to make all decisions and take all consequences.
+
+democratic/participative leadership: leaders involve organization members in the decision-making process and encourage collaboration. It fosters a sense of ownership and commitment, generates fresh ideas, and increases job satisfaction and motivation. However, decision-making can be slow due to consensus-building. It can lead to conflicts among organization members, thus requiring effective conflict resolution. 
+
+authoritative leadership: leaders set clear direction and goals while taking a hands-on approach to help organization members as a mentor to achieve the goal, encouraging organization members to follow their lead while guiding them toward success. It provides clarity, motivates and helps organization members to grow. However, leaders must own their mistakes. It can become micromanaging for organization members who are more experienced or used to be free to decide how work is done.
+
+delegative/laissez-faire leadership: leaders take a hands-off approach in the day-to-day oversight of their direct reports, giving them the freedom to complete daily tasks as they see fit while maintaining open communication and support when necessary. It promotes creativity and initiative. However, it can lack structure and guidance, leaving organization members feeling lost or uncertain. It can also lead to a lack of accountability and a decrease in overall productivity.
+
+charismatic leadership: leaders use verbal and nonverbal communication to charm, influence, motivate, inspire and persuade others to behave in a certain way or work toward a goal. They display a positive attitude, read people, show empathy, tell stories and use humor. It creates an optimistic work atmosphere, fosters high morale and engagement due to the connections formed with their leaders. However, because it is rooted in emotional manipulation, it can lead followers to abandon rational thought and accept ideas uncritically. It can be utilized for self-serving purposes compromising the best interests of the organization, or may 
+overshadow the practical aspects of execution and implementation. 
+
+authentic leadership: leaders align internal values and external behavior. They bring their whole selves to their jobs, participate fully in the workplace, and their principles ultimately govern. It inspires engagement and trust. It has four elements: self-awareness (emotional awareness, accurate self-assessment and self-confidence), relational transparency (build relationships based on trust and honesty and share thoughts openly with controlled emotions),  balanced processing (look at things with a calm and consistent approach, weighing up the information at their disposal before they act) and strong moral code.
+
+transformational leadership: leaders cause significant changes in individuals and systems. It redesigns perceptions and values, and changes expectations and aspirations of organization members. It has four elements: individualized consideration – leaders attend to each follower's needs, give empathy and support, keep communication open. This also encompasses the need for respect and celebrates the individual contribution. The followers have a will and aspirations for self development and have intrinsic motivation for their tasks. intellectual stimulation – leaders challenge assumptions, take risks and solicit followers' ideas, stimulate and encourage creativity in their followers. They nurture and develop people who think independently. The followers ask questions, think deeply about things and figure out better ways to execute their tasks. inspirational motivation – leaders articulate a vision that is appealing and inspiring to followers. Leaders challenge followers with high standards, communicate optimism about future goals, and provide meaning for the task at hand. Purpose and meaning provide the energy that drives a group forward. The followers are willing to invest more effort in their tasks. They are encouraged and optimistic about the future and believe in their abilities. idealized influence – leaders provide a role model for high ethical behavior, instills pride, gains respect and trust.
+Transformational leaders encourage creativity, challenge the status quo, and foster a culture of continuous improvement and growth. Additionally, they create a supportive and empowering work environment that fosters a sense of satisfaction, morale, and motivation among employees. However, transformational leaders’ high expectations and drive for excellence can sometimes lead to increased pressure and workload for employees.
+
+transactional/bureaucratic leadership: it is based on the idea that leaders give organization members something they want in exchange for getting something leaders want. Leaders focus on results, rely on reward-punishment systems to achieve optimal job performance. They value order and structure. It works best with organization members who know their jobs and are motivated by the reward-penalty system. However, it doesn’t encourage innovation or personal initiative because the goals and objectives have already been set. 
+
+pacesetting leadership: leaders are highly self-motivated. They set clear and high expectations of performance results, and have a low tolerance of low performance. It is result-oriented and requires organization members to match or exceed the high expectations. Leaders can be hands-off but will intervene when the organization members are not meeting the expectations.It is effective in leveraging team strength and achieving goals. However, it places a great deal of pressure on organization members. There is also a risk of misalignment of expectation and understanding between the leaders and the organization members.
+
+abusive leadership: leaders engage in sustained display of hostile behaviors against their subordinates.This may include disrespect, aggression, mistreatment, verbal abuse, emotional abuse, humiliation, degradation, anger tantrum, ridiculing, belittling, and more. This demoralizing experience has substantial adverse psychological influences on organization members, thus negatively impacting their work-related effectiveness and productivity. It impairs their self-efficacy, and drains them of personal strength and resources, inducing stress. It diminishes their feeling of inclusivity and belonging at the workplace, escalates a sense of insecurity, shame, anticipation of social exclusion, job dissatisfaction, and job neglect. It is met with distrust and antagonism from organization members. They may engage in counterproductive work behaviors and intend to leave the organization. 
+
+coaching leadership: leaders act as coaches of organization members, They recognize organization members’ strengths, weaknesses and motivations and help each individual improve. It involves active listening, constructive feedback, open communication, and support and development. 
+
+visionary leadership: leaders focus on future and long term goals. They have a clear idea of how the future should look like and inspire others to pursue a long-term compelling vision. The leaders set out a plan to achieve the vision and lead a team of people in that direction. It promotes collaboration, learning and strong performance to ensure the results.
+
+affiliative leadership: leaders promote positivity, a harmonious workplace and team-building. They focus on using conflict resolution and creating personal connections at the workplace to build a sense of community and trust. It increases morale, builds trust, reduces stress, and builds effective and cohesive teams. However, it pays less attention to individuals, discourages constructive negative feedback and leads to less self-motivation of organization members.
+
+servant leadership: leaders prioritizes the growth, well-being, and empowerment of organization members. It puts people first to grow the organization through their commitment and engagement.It aims to foster an inclusive environment that enables everyone in the organization to thrive as their authentic self. 
+
+culture: commonly-accepted beliefs and practices that impact organization members’ behavior in interacting with each other and handling matters. It may be implied or expressly defined and is reflected in the organization's actual operations and activities. Sometimes it may be different from what an organization claims to be. It develops organically over time. It is also influenced by external factors including national cultures and traditions, economic trends, nature of its services and products etc.. Good organization culture can provide a positive workplace environment, retain and attract talents, and improve organization performance.. Bad culture can do the opposite.
+
+culture elements: the aspects of an organization in which culture is embedded and practiced, which include: leadership style;leaders’ integrity; ways of leaders communicating with the rest members of the organization; ways of interaction between supervisor and subordinate
+ways of interaction between organization members; ways of interaction between organization; members and outside stakeholders such as suppliers, customers, partners etc.; team collaboration
+team communication; team morale and engagement; compensation and benefit systems; career paths; training program; how promotion is decided and on what basis; how salary raise/bonus is decided and on what basis; what behavior is rewarded/praised and what behavior is punished or criticized; how task/project/work that brings any benefit like learning, gaining new experience, socializing etc. is allocated; work site flexibility (remote  work allowed or not and to what degree); work time flexibility; workload and pressure; work/life balance; annual leave, sick leave etc, policy; travel, transportation, hotel, meal and other expense reimbursement policy
+job security; work environment such as office, facility, dress code etc.; care for organization members (health, safety and employee services); fairness and equality; inclusiveness and diversity; integrity and ethics etc.
+
+culture characteristics: existing social norms in practice.
+
+culture characteristics/process-oriented: more concerned with the means and procedures of handling things.
+
+culture characteristics/result-oriented: more concerned with whether the pursued goal is achieved or the job is done.
+
+culture characteristics/ employee-oriented: more concerned with the wellbeing of organization members.
+
+culture characteristics/parochial: people identify themselves strongly with their organization, focusing on their own organization’s interests instead of more broader communities.
+
+culture characteristics/professional: people identify themselves strongly with occupations and professions.
+
+culture characteristics/open system: information flows easily through the organization
+ 
+culture characteristics/closed system: high degree of confidentiality and secretive practices
+
+culture characteristics/ loosely controlled: more permissive about individual’s preferences
+
+culture characteristics/tightly controlled:  more control about individual’s preferences
+
+62, culture characteristics/pragmatic: more market-driven, customer-oriented and are open to ad hoc solutions rather than concerning norms or formality.
+
+culture characteristics/normative: more concerned with legitimacy and norms.
+
+culture characteristics/mentoring: people are eager to engage in mentoring relationships which focus on learning, knowledge-sharing and personal development.
+
+culture characteristics/nurturing: prioritize the needs of people and care for their well being and satisfaction.
+
+culture characteristics/participatory: individuals act as contributors and share their ideas and work instead of being passive.
+
+culture characteristics/dynamic: being fluid instead of static, culture is changing and evolving constantly, sometimes due to interactions with other cultures.
+
+culture characteristics/entrepreneurial: people are encouraged and motivated to take new challenges, have new ideas, be flexible, adaptable and innovative.
+
+culture characteristics/risk-taking: encourage and motivate people for taking informed risks, taking responsibility for risk management and following risk management policies and practices.
+
+culture characteristics/innovation: encourage and motivate people to share creative ideas, and create new technology, processes, solutions, products or services.
+
+culture characteristics/efficiency: prioritize and put high importance on productivity, effectiveness and optimization.
+
+culture characteristics/stable: be predictable and rule-based which ensures a certain level of certainty but can cause bureaucracy or lack of adaptability.
+
+culture characteristics/respect: treat people with dignity, regardless of their roles, background or characteristics.
+
+culture characteristics/hustle or hard-working: emphasize working hard and pushing oneself constantly for more successes, in spite of harming one’s well being. 
+culture characteristics/supportive: provide the information, tools, systems to support organization members growth and development, build positive relationships between people, work, and organization, and provide social and psychological conditions for health, safety, and well-being.
+
+culture characteristics/cooperative: people share information, ideas and skills, provide assistance to each other for a common goal.
+
+culture characteristics/trustful:  keep commitments and be accountable, be consistent, perform with integrity and competence, and at the same time, have confidence in others to do the same.
+
+culture characteristics/coherent: organization members align with each other and with the mission and goal of their organization.
+
+culture characteristics/competitive: encourage individuals or teams to compete and outperform others, compare their performance against each other.
+
+culture characteristics/free-speaking:encourage people to speak out.
+
+culture characteristics/empowering: allow and motivate people by providing conditions to make their own decisions to help meet the organization's goals.
+
+culture characteristics/creativity and innovation: encourage and motivate people by providing the environment to create new ideas and use these ideas to make or produce something useful and valuable.
+
+culture characteristics/winning: cultures that can help an organization to achieve its goal and out-perform its competitors.
+
+culture characteristics/merit-based: rewards and promotions are given based on contribution, performance and abilities, rather than age, title or favoritism etc.
+
+culture characteristics/equal opportunities: everyone has the equal chance to achieve their desired goals.
+
+culture characteristics/high morale: organization members have a high level of satisfaction and a positive attitude toward the organization and its mission, goals and objectives, and are willing to give their best effort. It increases productivity and reduces turnover. 
+
+culture characteristics/strong sense of mission and purpose: organization members understand and are dedicated to achieve the mission and purpose of their organization.
+
+culture characteristics/customer-oriented: keeping the customer as the central point for the organization’s success. It focuses on putting the customer's needs first, enhancing the customer’s satisfaction and building strong customer relationships.
+
+culture characteristics/inclusiveness and diversity: appreciate and welcome organization members of diverse backgrounds, characteristics, experiences or ways of thinking.
+
+culture characteristics/toxic: an environment characterized by internal fighting, power-struggling, cut-throat competitiveness, lack of trust, lack of accountability, blame-shifting, backstabbing, self-preserving, discrimination, favoritism, unfairness, silencing free-speaking, isolation, redtape, laziness, depression, painfulness etc.
+
+culture characteristics/mediocre: an environment characterized by staying in the comfort zone with mediocre performance, boredness and low morale.
+
+culture characteristics/agile: an environment characterized by being adaptive, flexible, innovative and resilient when dealing with complexity, uncertainty and change. 
+
+culture characteristics/easygoing: an environment characterized by being informal, loose and unpredictable, which facilitates innovation and adaptability.
+
+culture characteristics/strict: an environment characterized by being formal, a lot of planning and predictable, which facilitates efficiency and certainty. 
+

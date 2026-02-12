@@ -1,0 +1,72 @@
+relationship status: the current status of relationship between individuals or groups of individuals related to how they interact and connect with each other, involving experience-driven relationship, transactional relationship, genetically-related relationship, socially constructed relationship.
+
+relationship status type/experience-driven relationship: interactions are primarily based on personal experiences, usually the sense of familiarity and closeness.
+
+relationship status type/transactional relationship: interactions are primarily based on a clear exchange of goods, services, or benefits, with a focus on mutual gain and defined expectations rather than emotional connection or long-term commitment, such as customer relationship, work relationship, or faked friendship where exchanging favour is the focus. It's essentially a give-and-take dynamic where each party anticipates a specific return for what they contribute.In the relationships where emotion bond is the focus, there may exist transactional elements, but it is not considered as transactional relationship.
+
+relationship status type/socially constructed relationship: interactions are primarily based on socially constructed norms.
+
+experience-driven relationship status/romantic partner: mutual, ongoing and voluntary interactions between people that are characterized by specific expressions of affection and intimacy, involving feelings of passion, love and commitment.
+
+experience-driven relationship status/friendship: shared emotional bond, trust and loyalty between people. They make efforts to know each other better and see each other more often. They share personal thoughts, emotions and feelings with each other.
+
+experience-driven relationship status/acquaintance: knowing someone casually, with limited interaction and shared experience. Usually only see them in convenience and don’t share personal emotions, feelings or thoughts, only knowing something basic about them but not much.
+
+experience-driven relationship status/stranger: see someone by chance or be with temporarily without any real connection. 
+
+experience-driven relationship status type/liked: having a positive emotional response or attitude toward someone, which is characterized by feelings of affection, admiration, or attraction. This can manifest in various ways, including a desire for interaction, enjoyment of the person's company, and appreciation of their qualities.
+
+experience-driven relationship status type/disliked: having a negative emotional response or attitude toward someone. It involves feeling aversion, discomfort, or disapproval toward an individual. This dislike can stem from personal experiences, differences in values or beliefs, or specific behaviours and actions of the person in question.
+
+experience-driven relationship status type/uninterested: lacking curiosity, engagement, or emotional investment toward someone. It involves a lack of desire to interact, get to know, or maintain a relationship with the person.
+
+experience-driven relationship status type/adversary: opposing or competing against someone, often in a context of rivalry or conflict. Unlike an enemy, who may harbor deep-seated animosity or hostility, an adversary may simply be someone with whom you have competing interests or goals. It can happen in various contexts, such as personal disputes, professional competition, or strategic conflicts.
+
+experience-driven relationship status type/enemy: actively antagonistic or hostile against someone. This hostility can manifest in various forms, including personal, professional, or ideological conflicts. Unlike a simple adversary, an enemy typically harbours deep-seated animosity or opposition.
+
+experience-driven relationship status dimension/intimacy: also called closeness. It is the strength of emotional bonds and interaction between each other in a spectrum from low to high, characterized by interaction frequency, time and depth etc. It may be reflected by how much information is shared. The following examples indicate lower level of intimacy such as sharing simple facts and information without potential for any conflict, sharing other people’s opinions and beliefs because it is related to others and there is no risk on self or sharing own opinions and thoughts because opinions and thoughts can be changed at any time, if rejected. On the contrast, the following examples indicate higher level of intimacy such as sharing own feelings and experience believing it will be understood and validated; sharing own needs, emotions and desires trusting it will be understood and supported.
+
+intimacy types: emotional intimacy - express feelings, positive or negative, to be received with validation and understanding; social intimacy - share each other’s interests and spend time together; intellectual intimacy - feel safe and free to share opinions; physical/sexual intimacy - meaningful, consensual physical interactions; aesthetical intimacy - share appreciation of the beauty of something; spiritual intimacy - feel validated and secure in sharing life purpose and values; conflict intimacy - understand and respect each other’s differences; creative intimacy - being creative with someone with whom you experience a level of comfort and connectedness; leisure intimacy - engage in leisure activities together.
+
+transactional relationship status type/seller-buyer: also called customer or client relationship. A person sells goods or services to another person, in their own capacity or representing an entity. 
+
+transactional relationship status type/principal-agent: a person acts on behalf of another person in doing something. They can be in their own capacity or representing entities. The relevant laws and contract define the rights and obligations of principal and agent in the context of the specific matters. 
+
+transactional relationship status type/business partners: two person in their own capacity or representing entities enter into a cooperative relationship to for a transactional purpose jointly. 
+
+transactional relationship status type/supervisor-subordinate: one person is the supervisor of another person, with both are employees of an organization. The subordinate is required to report to and follow the instructions of the supervisor on work-related matters. 
+
+transactional relationship status type/collaborators: two people who work in the same team or organizations. There is no reporting relationship between them. Often they collaborate with each other under the supervision of the same supervisor. 
+
+transactional relationship status type/government-public: a person representing government conduct regulatory actions toward a person in the public. The actions are based on law and has a nature of enforcement.
+
+genetically-related relationship status type/parents-kids: a person gives birth to another person.
+
+genetically-related relationship status type/relatives: people who are connected through genetics and blood ties. 
+
+socially constructed relationship status type/spouse: people in marriage according to the relevant law.
+
+socially constructed relationship status type/guardian: a person who is usually a parent takes care of and is responsible for the behaviour of a person who is usually a son or daughter. 
+
+socially constructed relationship status type/teacher-student: a person teaches another person usually in an education organization such as a school.
+
+socially constructed relationship status type/classmates: people who study in the same school.
+
+socially constructed relationship status type/alumni: people who used to study in the same school or work in the same organization.
+
+socially constructed relationship status type/neighbour: people who live in proximity physically in the same residential community.
+
+socially constructed relationship status type/native fellows: people who are from same hometown.
+
+relationship status dimension/trust: the degree of belief in and reliance on each other’s character, capability and behaviour and that they will care for each other.
+
+relationship status dimension/respect: the degree of treating each other positively involving valuing their opinion, feelings, qualities, capabilities or achievements.
+
+relationship status dimension/loyalty: the degree of faithfulness to each other in face of temptation of betrayal due to circumstances change.
+
+relationship status dimension/fondness: the degree of enjoying being together or interacting with each other.
+
+relationship status dimension/care: the degree of paying attention to and making efforts to enhance each other’s interests or wellbeing.
+
+
+

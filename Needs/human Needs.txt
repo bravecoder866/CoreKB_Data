@@ -1,0 +1,110 @@
+goal and objective: the individual’s desired outcome of things related to their needs.
+
+motivation: an individual’s drive to act toward a goal, arising from its needs. A motivation has three elements: intensity-how strong the drive is, activation-whether to initiate actions, and persistence-how long the continued effort will be.
+
+need: things that a person wants. A person has so many different needs. The numerous consumer goods and services on the market demonstrates the unlimited needs of people. Some needs are necessary for their survival. Some needs are desired by them for a better life. Some needs can be very complex and difficult to classify or explain. A person rarely feels all of their needs have been met. There are always new needs in terms of nature, type, quality or quantity. These needs may be external or internal, material or spiritual, physiological or mental, specific or general, simple or complex. Some examples of an individual’s needs include power, money, house, car, job, education, health, love, sex, security, family, friends, social status, success, achievement and self-fulfillment etc. 
+
+need/existence needs: things that a person needs physiologically or for safety and security such as food, water, clothings, sleep, rest, exercise, health, wellbeing, comfortness, convenience, job, money, car, house, work and life balance, holidays, freedom from danger or harm, law and order and social stability etc. 
+
+need/related needs: things that a person needs to connect with other people such as love, belonging, friendship, romantic relationship, family, community and other social connections etc.
+
+need/growth needs: things that a person needs to feel good about themselves such as self-esteem, feeling respected and valued,  acquiring knowledge, skills, education, achievements, success, power, wealth or social status, and self-actualization such as realizing one’s highest potential value and reaching to self-fulfillment. 
+
+need priority: the sequence of needs, goals, objects and actions in the order of importance from high to low determined by an individual for itself. In case of conflict, the priority order will decide what comes first for an individual to input time and effort.
+
+need/physiological survival: air, water, food, sleep, sex, thermoregulation etc.
+
+need/health and bodily care: access to disease prevention and treatment, reproductive health etc.
+
+need/shelter, sanitation and environmental quality: housing, clean energy, hygiene, clean and healthy environment.
+
+need/economic security: wealth including cash, assets or stable income from job or business etc.
+
+need/safety and legal security: freedom from violence, abuse, exploitation, and have access to due process.
+
+need/belonging and attachment: close relationships, affection, caregiving and social support.
+
+need/esteem, dignity and identity: respect, status, self-worth and coherent self.
+
+need/autonomy and voice: volition, self-determination, political and civic participation.
+
+need/competence and achievement: skill growth, mastery and efficacy.
+
+need/learning: knowledge, education and cognitive stimulation.
+
+need/meaning and purpose: values, morality, spirituality and transcendence.
+
+need/fun and expression: play, joy, leisure, art, creativity, expression, culture and exploration.
+
+need/psychological need/autonomy: a basic psychological need to feel a sense of choice and volition in one's actions and behaviours. It is a sense that one's actions, including feelings and thoughts, are self-endorsed, self-initiated and self-driven, rather than being coerced or controlled. When autonomy is satisfied, it fosters intrinsic motivation, which is the motivation that comes from within, driven by interest and enjoyment of the activity itself. Autonomy is contrasted with feeling controlled, where one's actions are dictated by external rewards, punishments, or internal pressures. Autonomy is supported by attempting to grasp and acknowledge the person's wishes, preferences and perspectives, conveying understanding of their point of view, providing a rationale for engaging in a behavior, and providing choice in how to behave. Supporting someone’s autonomy also means refraining from trying to control or pressure them to act in a certain way. Autonomy is essential for psychological well-being and optimal functioning. 
+
+need/psychological need/competence: a basic psychological need to feel the sense of experience of mastery and being effective in one’s actions and interactions with the environment. Competence involves the process of learning and developing new skills, which in turn, contributes to a sense of mastery and confidence. When individuals feel competent, their intrinsic motivation and persistence in pursuing goals are enhanced. If individuals consistently experience a lack of competence, it can lead to decreased motivation, avoidance of challenges, and feelings of inadequacy. Competence is supported by providing the person with optimal challenges and opportunities, specific goals that are challenging enough, but not overwhelming, encouraging their sense of initiation, providing structure to mobilize and organize behavior and providing relevant feedback. Competence is essential for psychological well-being and optimal functioning. The feelings of competence will not enhance intrinsic motivation unless accompanied by a sense of autonomy or, by an internal perceived locus of causality. This requires either immediate contextual supports for autonomy and competence or abiding inner resources that are typically the result of prior developmental supports for perceived autonomy and competence. 
+
+need/psychological need/relatedness: the need to feel connected and a sense of belongingness with others. Essentially, relatedness is about feeling cared for and caring for others, and having meaningful social interactions. Relatedness is satisfied through the development and maintenance of close, positive relationships with family, friends, romantic partners, and within groups. Excessive competition or negative peer comparisons can undermine relatedness. Feelings of isolation, exclusion, and rejection can significantly hinder the satisfaction of the need for relatedness. Relationships characterized by control, criticism, or a lack of empathy can be detrimental to relatedness. Relatedness is supported when others are involved and show interest in the person’s activities, are empathic in responding to their feelings and convey that the person is significant, cared for, and loved. Relatedness is essential for psychological well-being and optimal functioning. 
+
+need/workplace/psychological need/autonomy: choice over tasks, methods, schedule.
+
+need/workplace/psychological need/competence: chances to do challenging work and succeed.
+
+need/workplace/psychological need/relatedness and belonging: feeling accepted by the community, team or organization.
+
+need/workplace/psychological need/meaning and purpose: doing work that has connection to a worthwhile mission.
+
+need/workplace/psychological need/recognition and status: being seen, recognised and appreciated for contributions.
+
+need/workplace/psychological need/voice: influence over decisions that affect one's work.
+
+need/workplace/psychological need/psychological safety: an environment where one can speak up, ask for help or admit mistakes without fear.
+
+need/workplace/safety and security/physical safety: non-hazardous work environment.
+
+need/workplace/safety and security/job security: reasonable stable jobs and transparency in case of any changes.
+
+need/workplace/safety and security/fair pay and benefits: fair and justified wage, benefits, healthcare, leave and social security.
+
+need/workplace/safety and security/predictable workload: reasonable work load at humane pace and limits on after hours intrusion.
+
+need/workplace/safety and security/work life boundaries: reasonable time off and flexibility for caregiving and health.
+
+need/workplace/clarity and resources/role clarity: clear scope  and division of responsibilities, clear goals and success criteria.
+
+need/workplace/clarity and resources/useful feedback: timely, specific feedback and uidance to improve.
+
+need/workplace/clarity and resources/tools and information: adequate software, data, tools and processes that work.
+
+need/workplace/clarity and resources/coordination: clear priorities, low meeting chaos and defined ownership and accountability.
+
+need/workplace/fairness and dignity/procedural justice: fair, transparent processes in terms of hiring, pay and promotion.
+
+need/workplace/fairness and dignity/distributive justice: outcomes proportionate to effort and impact.
+
+need/workplace/fairness and dignity/interpersonal respect: civility, zero tolerance for harassment or bias.
+
+need/workplace/fairness and dignity/inclusion and equity: equal opportunity to grow and be heard.
+
+need/workplace/growth and development/learning and training: opportunity for learning and training program.
+
+need/workplace/growth and development/career paths: opportunities for visible career progression and internal mobility.
+
+need/workplace/growth and development/mentorship and coaching: access to experienced staff for guides and help.
+
+need/workplace/growth and development/meaningful stretch: opportunities to lead, own projects or innovate.
+
+motivation/intrinsic motivation: one is driven to perform behavior because it’s interesting or enjoyable in itself, for example by one's interest or enjoyment of the behavior itself. This type of motivated behavior tends to be more persistent, more satisfying, and leads to higher well-being overall. Choice, acknowledgment of feelings, and opportunities for self direction were found to enhance intrinsic motivation because they allow people a greater feeling of autonomy. All expected tangible rewards made contingent on task performance do reliably undermine intrinsic motivation because they conduce toward an external perceived control. Social environments can facilitate or forestall intrinsic motivation by supporting versus thwarting people's innate psychological needs. There are strong links between intrinsic motivation and satisfaction of the needs for autonomy and competence. One will be intrinsically motivated only for activities that hold intrinsic interest for them, activities that have the appeal of novelty, challenge, or aesthetic value. 
+
+motivation/extrinsic motivation: one is driven to perform behavior in order to attain some separable outcome, not the activity itself, such as tangible rewards, punishments and internalized pressures from others. For this type of motivated behavior tends to be hard to initiate or maintain over the long term. Much of what people do is not, strictly speaking, intrinsically motivated, especially after early childhood when the freedom to be intrinsically motivated is increasingly curtailed by social pressures to do activities that are not interesting and to assume a variety of new responsibilities. 
+
+motivation/internalization and integration: whenever a person is requested to do certain behavior, the person's motivation for the behavior can range from amotivation or unwillingness, to passive compliance, to active personal commitment. These different motivations reflect differing degrees to which the value and regulation of the requested behavior have been internalized and integrated. Internalization refers to people's taking in a value or regulation, and integration refers to the further transformation of that regulation into their own so that, subsequently, it will emanate from their sense of self. 
+
+motivation/extrinsic motivation/amotivation: the state of lacking the intention to act. When amotivated, people either do not act at all or act without intent--they just go through the motions. Amotivation results from not valuing an activity, not feeling competent to do it, or not expecting it to yield a desired outcome.
+
+motivation/extrinsic motivation/externally-regulated motivation: behaviors are performed to satisfy an external demand or reward contingency. Individuals typically experience externally regulated behavior as controlled or alienated.
+
+motivation/extrinsic motivation/introjected regulation: involves taking in a regulation but not fully accepting it as one's own. It is a relatively controlled form of regulation in which behaviors are performed to avoid guilt or anxiety or to attain ego enhancements such as pride. Put differently, introjection represents regulation by contingent self-esteem. For example: people are motivated to demonstrate ability or avoid failure in order to maintain feelings of worth. Although internally driven, introjected behaviors still have an external perceived locus of causality and are not really experienced as part of the self. 
+
+motivation/extrinsic motivation/regulation through identification: it reflects a conscious valuing of a behavioral goal or regulation, such that the action is accepted or owned as personally important. 
+
+motivation/extrinsic motivation/integrated regulation: it occurs when identified regulations are fully assimilated to the self, which means they have been evaluated and brought into congruence with one's other values and needs. Actions characterized by integrated motivation
+share many qualities with intrinsic motivation, although they are still considered extrinsic because they are done to attain separable outcomes rather than for their inherent enjoyment. 
+
+

@@ -1,0 +1,252 @@
+relationship formation/introductions: interactions that initiate contact and establish basic social footing (names, roles, context) to open the door to further connection.
+
+relationship formation/getting-to-know-you: low-stakes exchanges used to learn someone’s background, personality, and general vibe while keeping risk and vulnerability limited.
+
+relationship formation/light disclosure: sharing small personal details (preferences, harmless opinions, daily life) to invite reciprocity and test safety.
+
+relationship formation/mutual interests: identifying shared topics, hobbies, goals, or tastes to create easy conversation loops and a sense of similarity.
+
+relationship formation/boundary testing: subtle probes of limits such as humor, teasing, questions, topics etc. to see what’s acceptable and how the other person responds.
+
+relationship maintenance/routine check-ins: short interactions that reaffirm connection and continuity such as messages and calls etc without needing major content.
+
+relationship maintenance/shared rituals: repeated activities that anchor the relationship such as weekly meals, traditions or inside routines and create stability.
+
+relationship maintenance/availability signalling: behaviors that show you’re reliably there such as timely replies, remembering details or showing up to keep the bond secure.
+
+relationship maintenance/low-stakes bonding: casual talk and small shared moments that maintain warmth without heavy emotional work.
+
+relationship maintenance/relationship housekeeping: practical conversations that keep the relationship functioning such as plans, expectations, small adjustments or coordinating life.
+
+relationship deepening/vulnerability sharing: revealing meaningful feelings, fears, or hopes to invite deeper trust and emotional closeness.
+
+relationship deepening/value alignment: discussing beliefs and priorities to see whether you “match” at a deeper level and can build shared meaning.
+
+relationship deepening/reciprocal self-disclosure: a back-and-forth exchange of personal information that gradually increases intimacy through balanced openness.
+
+relationship deepening/commitment talk: conversations that clarify exclusivity, loyalty, future intentions, and what we are to each other.
+
+relationship deepening/creating shared identity: building a shared identity through private language, joint stories, and shared goals that distinguish the relationship.
+
+emotional support/active listening: attentive presence focused on understanding the speaker’s experience without rushing to fix or judge.
+
+emotional support/validation: communicating that feelings make sense given the situation, reducing shame and defensiveness.
+
+emotional support/reassurance: offering safety cues such as care, acceptance and stability to reduce anxiety and catastrophic thinking.
+
+emotional support/encouragement: strength-focused support that boosts confidence and motivation without dismissing difficulty.
+
+emotional support/practical help as care: Tangible assistance (tasks, resources, problem handling) offered primarily to reduce burden and signal support.
+
+co-regulation/de-escalation: techniques to lower emotional intensity in the moment such as slowing pace, soft tone, or grounding language to prevent spirals.
+
+co-regulation/grounding and calming: helping someone return to baseline through steady presence, breathing cues, and predictable reassurance.
+
+co-regulation/energizing and activation: raising morale or momentum when someone is stuck or low-energy through enthusiasm, structure, and gentle pushes.
+
+co-regulation/containment: creating a safe emotional container including time limits, focus and boundaries so strong feelings are expressed without overwhelming either person.
+
+co-regulation/affect matching: mildly mirroring tone and emotion to signal understanding, then gradually guiding toward calmer states.
+
+information sharing/status updates: brief factual updates about what is happening or changed, primarily to keep others informed.
+
+information sharing/announcements: one-to-many or formal updates that communicate decisions, events, or changes with clear expectations.
+
+information sharing/knowledge transfer: explaining facts, procedures, or background so someone can understand or act correctly.
+
+information sharing/clarification: short exchanges that reduce confusion by defining terms, correcting misunderstandings, or specifying details.
+
+information sharing/resource sharing: providing links, documents, contacts, or references to enable learning or action.
+
+sensemaking/discussion to understand: open-ended talk aimed at forming a clearer picture rather than proving a point or winning.
+
+sensemaking/cause-and-effect interpretation: exploring why something happened, what factors mattered, and what patterns might explain it.
+
+sensemaking/scenario planning: considering plausible future outcomes and what signals would indicate each path.
+
+sensemaking/risk appraisal: estimating likelihood and impact of threats or opportunities to guide caution or action.
+
+sensemaking/debate-for-learning: structured disagreement used to test ideas, uncover assumptions, and refine understanding without personal attack.
+
+coordination/scheduling: aligning times, deadlines, and availability so actions happen smoothly.
+
+coordination/role allocation: assigning responsibilities and ownership so everyone knows who does what.
+
+coordination/process alignment: agreeing on how work will be done including steps, tools, and communication channels to reduce friction.
+
+coordination/progress tracking: checking status, updating blockers, and adjusting plans to stay on course.
+
+coordination/hand-offs: transferring tasks or information across people with enough clarity to avoid drops and duplication.
+
+joint problem-solving/problem definition: clarifying what the real problem is, what constraints exist, and what is output looks like.
+
+joint problem-solving/brainstorming options: Generating multiple possible solutions without immediately judging them.
+
+joint problem-solving/root-cause analysis: identifying underlying drivers rather than treating symptoms so fixes actually stick.
+
+joint problem-solving/testing and iteration: trying solutions, observing results, and refining based on feedback.
+
+joint problem-solving/tradeoff evaluation: comparing options by cost, risk, time, and impact to pick the most workable approach.
+
+decision-making/option narrowing: reducing many possibilities into a short list using agreed criteria.
+
+decision-making/choice and closure: selecting a direction and explicitly ending indecision so action can start.
+
+decision-making/buy-in check: ensuring stakeholders genuinely accept the decision or can live with it to prevent sabotage or drift.
+
+decision-making/commitment setting: converting decisions into concrete commitments such as who, what, when and accountability.
+
+decision-making/review and adjustment: revisiting decisions after new information to confirm, modify, or reverse responsibly.
+
+persuasion/evidence-based argument: using facts, logic, and examples to shift beliefs or preferences.
+
+persuasion/framing and narrative: presenting an issue through a particular lens or story to make one interpretation feel more compelling.
+
+persuasion/emotional appeal: influencing by engaging values, fear, hope, pride, or empathy to motivate change.
+
+persuasion/social proof and credibility: using status, expertise, endorsements, or group norms to increase acceptance.
+
+persuasion/call to action: moving from agreement to behavior by making the next step easy, specific, and timely.
+
+negotiation/interest discovery: identifying what each side truly wants beneath stated positions to find workable overlaps.
+
+negotiation/proposal making: offering terms that bundle benefits and costs in a way the other side might accept.
+
+negotiation/counteroffers: iteratively adjusting terms to move toward a mutually acceptable deal.
+
+negotiation/concession trading: exchanging like I’ll give X if you give Y to balance value and fairness.
+
+negotiation/agreement formalization: making the final deal explicit such as scope, timelines, responsibilities, contingencies to prevent later conflict.
+
+boundary-setting/saying no: declining requests while clearly stating limits without excessive justification or hostility.
+
+boundary-setting/expectation setting: defining what you can and cannot do, what you need, and what others can expect going forward.
+
+boundary-setting/consent and respect checks: ensuring interaction remains voluntary and respectful, especially around sensitive topics or intimacy.
+
+boundary-setting/consequence communication: explaining what will happen if limits are violated to make boundaries enforceable.
+
+boundary-setting/relationship-preserving firmness: maintaining warmth while staying clear and steady so boundaries don’t become fights.
+
+conflict expression/position defence: advocating strongly for your goal or viewpoint when interests collide.
+
+conflict expression/blame and accusation: assigning fault or intent to explain harm, often escalating defensiveness.
+
+conflict expression/competition for resources: fighting over scarce things (time, money, recognition, control) where one side’s gain feels like another’s loss.
+
+conflict expression/value or identity clash: disagreement tied to moral beliefs or identity, where compromise can feel like betrayal.
+
+conflict expression/escalation behaviors: raising intensity through sarcasm, interruptions, threats, public shaming, or absolutist language.
+
+de-escalation/slowdown and pause: interrupting the escalation cycle by stopping, taking breaks, and lowering tempo before continuing.
+
+de-escalation/reflecting and paraphrasing: demonstrating understanding of the other side’s point to reduce the need for repetition and intensity.
+
+de-escalation/reframing the issue: shifting from personal attack to shared problem, or from who’s right to what works.
+
+de-escalation/needs clarification: identifying underlying needs and fears driving the conflict to create pathways beyond positions.
+
+de-escalation/structured dialogue: using rules such as turn-taking, time limits, specific questions to keep discussion constructive.
+
+repair/apology and accountability: acknowledging harm, taking responsibility, and naming what will change to prevent recurrence.
+
+repair/making amends: concrete actions that restore value or safety such as restitution, corrections, supportive follow-through.
+
+repair/forgiveness process: gradually releasing resentment while still maintaining boundaries and realism about trust.
+
+repair/trust rebuilding: re-establishing reliability through consistent behavior, transparency, and small earned steps.
+
+repair/new agreements: updating norms, expectations, and safeguards so the relationship can function better than before.
+
+trust calibration/transparency sharing: providing honest information about motives, constraints, and intentions to reduce suspicion.
+
+trust calibration/proof and verification: offering evidence such as records, references, or demonstrations when words alone aren’t enough.
+
+trust calibration/reliability testing: small tests of follow-through such as promises, punctuality, or confidentiality to assess dependability.
+
+trust calibration/reciprocity tracking: noticing whether support and effort are balanced over time to judge fairness and goodwill.
+
+trust calibration/risk management in closeness: adjusting how much you share or rely on someone based on their track record and context.
+
+status negotiation/competence display: showing skill, expertise, or achievement to earn respect or authority.
+
+status negotiation/deference and respect rituals: politeness behaviors that acknowledge rank, seniority, or expertise to maintain harmony.
+
+status negotiation/credit and recognition: managing who gets acknowledged for work and ideas to protect reputations and motivation.
+
+status negotiation/dominance contests: competitive behaviors aimed at controlling conversation, decisions, or social attention.
+
+status negotiation/face-saving: Preserving dignity during mistakes or disagreement so people can back down without humiliation.
+
+identity signalling/group belonging cues: expressing affiliation through language, symbols, norms, or shared references to show I am one of you.
+
+identity signalling/value declarations: stating moral or ideological commitments to define self-image and boundaries.
+
+identity signalling/moral positioning: communicating what is good or bad to gain respect or align with a community’s standards.
+
+identity signalling/us-versus-them framing: drawing social lines that clarify who is trusted and who is suspect.
+
+identity signalling/reputation management: curating how others perceive you through selective sharing, emphasis, and narrative control.
+
+norm enforcement/praise and reinforcement: encouraging desired behavior by recognizing it publicly or privately.
+
+norm enforcement/correction and feedback: pointing out deviations from expectations to bring behavior back in line.
+
+norm enforcement/social pressure: using group approval or disapproval to shape behavior without formal authority.
+
+norm enforcement/formal accountability: structured evaluation and consequences such as reviews, rules, disciplinary steps to uphold standards.
+
+norm enforcement/boundary policing: actively guarding group identity and rules by challenging or excluding violations.
+
+teaching and mentoring/instruction: explaining concepts and steps so someone can perform a task or understand a domain.
+
+teaching and mentoring/modeling: demonstrating behaviors and thinking processes so the learner can imitate and internalize them.
+
+teaching and mentoring/guided practice: supporting someone while they try, with help calibrated to their current skill level.
+
+teaching and mentoring/feedback loops: giving specific observations and adjustments to improve performance over iterations.
+
+teaching and mentoring/sponsorship and advocacy: using influence to create opportunities for someone and vouching for their potential.
+
+caretaking/safety supervision: monitoring risk and intervening to prevent harm, especially for dependents.
+
+caretaking/daily needs support: helping with routine necessities such as food, transport or medical coordination to maintain wellbeing.
+
+caretaking/developmental guidance: shaping habits, values, and skills through coaching, structure, and consistent limits.
+
+caretaking/protective boundary enforcement: setting and enforcing rules to keep someone safe even if they resist.
+
+caretaking/crisis response: acting quickly during emergencies to stabilize, secure help, and restore safety.
+
+play/humor and banter: light interaction designed to create joy and bonding through jokes, teasing, and shared laughter.
+
+play/flirting and romantic play: playful signaling of attraction and interest while testing comfort and reciprocity.
+
+play/games and competition-for-fun: Structured play where winning is secondary to enjoyment and shared experience.
+
+play/creative improvisation: spontaneous co-creation such as stories, music, or ideas that emphasizes novelty and yes-and energy.
+
+play/exploration and novelty: trying new topics, places, or activities together to generate excitement and shared memories.
+
+ritual bonding/greetings and farewells: repeated social scripts that affirm respect, belonging, and relational status.
+
+ritual bonding/ceremonies and milestones: formalized events such as birthdays, weddings, or graduations that reinforce group meaning and ties.
+
+ritual bonding/holiday and cultural traditions: shared seasonal or cultural practices that strengthen identity and continuity.
+
+ritual bonding/community gatherings: regular group meetups such as religious services, clubs or communal meals that maintain cohesion.
+
+ritual bonding/symbolic acts: meaningful gestures such as gifts, toasts and shared songs that communicate commitment and appreciation.
+
+transactional service/customer service exchange: role-based interaction aimed at resolving needs efficiently with courtesy and clear steps.
+
+transactional service/professional-client coordination: structured communication to deliver a service with defined scope, expectations, and outcomes.
+
+transactional service/formal requests and approvals: interactions focused on permissions, procedures, and compliance rather than personal connection.
+
+transactional service/favor and reciprocity exchange: trading help or resources with an expectation of balance over time.
+
+transactional service/complaints and resolutions: interactions aimed at correcting failures through reporting, negotiation of remedy, and closure.
+
+
+

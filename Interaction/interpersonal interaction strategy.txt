@@ -1,0 +1,130 @@
+negotiation/extreme demands: one party makes extreme demands followed up by small, slow concessions. It is a common hard-bargaining tactic protecting dealmakers from making concessions too quickly. This aggressive approach can rattle the counterpart. However, it risks keeping parties from making a deal or dragging out negotiations. To head off this tactic, it is necessary for the other party to have a clear sense of goals, best alternative to a negotiated agreement, and bottom line.
+
+negotiation/commitment tactic: a party says that their hands are tied or that they have only limited discretion to negotiate and make decisions. To deal with this tactic, one can verify if these limitations are true. If so, it is necessary to negotiate with someone who can make decisions.
+
+negotiation/take-it-or-leave-it strategy: a party says their offer is non-negotiable, which is not true, to force the party to accept the offer. To defuse this hard-bargaining tactic, try ignoring it and focus on the content of the offer instead, then make a counter-offer that meets both parties’ needs.
+
+negotiation/inviting unreciprocated offers: a party asks the other party to make a concession before they make any counter offer, even though the other party has already made an offer. This tactic is used to keep the other party in the dark so as to gain more benefit from it. To deal with this tactic, the other party should indicate that it is waiting for a counter offer before considering any concession.
+
+negotiation/trying to make others flinch: a party keeps making greater and greater demands, waiting for the other party to reach their breaking point and concede. To deal with this tactic, the other party can call out the hard-bargaining tactic and clarify that it will only engage in a reciprocal exchange of offers.
+
+negotiation/personal insults, threats and warnings: a party uses personal attacks to feed on the other party’s insecurities and make them vulnerable. To deal with this tactic, the other party can take a break if feeling getting flustered, and let the other party know that it won’t tolerate insults and other cheap ploys.
+
+negotiation/bluffing, puffing, and lying: a party exaggerates and misrepresents facts trying to throw the other party off guard.To deal with this tactic, the other party must be skeptical about those claims that seem too good to be true and investigate them closely.
+
+negotiation/belittling: a party tries to make the other party cave in by belittling their best alternative to negotiated agreement. To deal with this tactic, just keep the resolve and do not be shaken.
+
+negotiation/good cop and bad cop: a party intentionally arranged their negotiation team in a way that one person is reasonable and the other is tough. They are working together to gain advantage over the other party. The tough negotiator acts in a threatening, hostile, and abusive manner, while the nice negotiator adopts a non-threatening, friendly and sympathetic manner. The contrast between the two negotiating styles makes the carrots offered by the nice negotiator seem even sweeter and the sticks offered by the tough negotiator even harsher.The nice negotiator aims to gain the other party’s trust and win a concession, pretending to help the other party not stuck with the unappealing offer of the tough negotiator. There are several ways to do it. One usual way is that the nice negotiator and the tough negotiator take turns interacting with their target, with the tough negotiator starting first. Sometimes, a solo negotiator uses a mixture of good cop and bad cop techniques, such as switching from being friendly to impatient or being indecisive about what to offer. Sometimes, only the nice negotiator is present but they might warn that they are giving the best deal possible and their boss will only give a worse deal. To deal with this tactic, the other party needs to be able to recognize this tactic, be persistent with their goal, and avoid falling into the trap.
+
+conflict resolution/avoiding: one party stays away from the conflict. It is good for situations where neither relationship or goal is important for the party.
+
+conflict resolution/competing: one party takes actions to fulfil its goal without caring much about whether their actions may damage the relationship with other parties. It is good for situations where one party places high importance on the goal and low importance on the relationships with others. It’s high in assertiveness and low in cooperation. It is also good for situations where one party needs standing up for itself and in instances where it  feels unsafe.
+
+conflict resolution/accommodating;  one party acquiesces to the other party’s needs by giving up its own goal or needs. It is good for situations where the relationship is more important than the goal for the party.
+
+conflict resolution/compromising: one party and the other parties willingly forfeit some of their needs to reach an agreement. It’s known as a “lose-lose” strategy, since neither of them achieve their full goal. It is good for situations where one party values the relationship, but not so much that it abandons their goal.
+
+conflict resolution/collaborating: win-win solution for situations where both relationship and goal are important. In instances of collaboration, the goal and the relationship are equally important, motivating all involved parties to work together to find an outcome that meets all needs.
+
+game theory: the mathematical tools for analyzing situations in which parties make decisions that are interdependent. This interdependence causes each party to consider the other’s possible decisions, or strategies, in formulating strategy. A solution describes the optimal decisions of the parties, who may have similar, opposed, or mixed interests, and the outcomes that may result from these decisions.
+
+game theory/game classification: games can be classified with certain features such as by how much information each party knows about the game and the other parties; by the extent to which the goals of the parties coincide or conflict; by number of options; by number of players or parties.
+
+game of perfect information - each party knows everything about the game including other parties at all times; 
+
+game of imperfect information - parties do not know all of the other parties’ cards.
+
+constant sum game: also called games of pure competition. Parties in constant-sum games have completely opposed interests. Cooperation makes no sense.
+
+variable-sum game: a game in which parties may all be winners or losers. In a labour management dispute, for example, the two parties certainly have some conflicting interests, but both will benefit if a strike is averted. Variable-sum games can be further distinguished as being either cooperative or noncooperative. 
+
+cooperative game: a game in which players can communicate and, most importantly, make binding agreements.
+
+noncooperative game: a game in which players may communicate, but they cannot make binding agreements, such as an enforceable contract. There is no mechanism for the players to make binding agreements with one another. 
+
+finite game: a game that has a finite number of players, a finite number of possible options or strategies for each player, a finite number of game states and outcomes. It starts, progresses through a limited number of moves or choices, and then ends, Has clearly defined rules, players, and payoff, Can be fully represented in a game tree or payoff matrix
+
+infinite game: a game that does not have a defined end point or has infinitely many possible strategies, moves, or states.
+
+extensive form of game: a game tree is used to describe a game which progresses step-by-step, one move at a time. Each turn is a vertex of the tree, with each branch indicating the parties’ successive choices.
+
+normal or strategic form of game:  it is used to describe a two-person game which can be represented by a payoff matrix, wherein each row describes the strategy of one player and each column describes the strategy of the other player. The matrix entry at the intersection of each row and column gives the outcome of each player choosing the corresponding strategy. The payoffs to each player associated with this outcome are the basis for determining whether the strategies are in equilibrium or stable.
+
+characteristic function form of game: it is generally used to analyze games with more than two players. It indicates the minimum value that each coalition of players, including single-player coalitions, can guarantee for itself when playing against a coalition made up of all the other players.
+
+one-person game:  also known as games against nature. With no opponents, the player only needs to list available options and then choose the optimal outcome. When chance is involved the game might seem to be more complicated, but in principle the decision is still relatively simple. While this person may make the wrong decision, there does not exist a conscious opponent. That is, nature is presumed to be completely indifferent to the player’s decision, and the person can base his decision on simple probabilities. One-person games hold little interest for game theorists.
+
+Two-person constant-sum games with perfect information: by making use of all available information, the players can deduce strategies that are optimal, which makes the outcome preordained i.e. strictly determined.
+
+saddlepoint: in a two-person constant-sum game, it is the outcome that rational players would choose. Its name derives from its being the minimum of a row that is also the maximum of a column in a payoff matrix—to be illustrated shortly—which corresponds to the shape of a saddle. A saddlepoint always exists in games of perfect information but may or may not exist in games of imperfect information. By choosing a strategy associated with this outcome, each player obtains an amount at least equal to his payoff at that outcome, no matter what the other player does. This payoff is called the value of the game; as in perfect-information games, it is preordained by the players’ choices of strategies associated with the saddlepoint, making such games strictly determined. A systematic way of finding a saddlepoint is to determine the so-called maximin and minimax values. When saddlepoints exist, the optimal strategies and outcomes can be easily determined, as was just illustrated. However, when there is no saddlepoint the calculation is more elaborate.
+
+utility theory: parties in a game are not necessarily maximizing their average profits. They may consider other factors. It is possible to define a utility function for a party’s decision that reflects their preferences. In essence, a utility function assigns a number to each party’s alternatives to convey their relative attractiveness. Maximizing someone’s expected utility automatically determines a player’s most preferred option. Game theory does not attempt to state what a party’s goal should be; instead, it shows how a player can best achieve his goal, whatever that goal is.
+
+two-person variable-sum games: most games that arise in practice are variable-sum games; the players have both common and opposed interests. For example, a buyer and a seller are engaged in a variable-sum game; the buyer wants a low price and the seller a high one, but both want to make a deal, as are two hostile nations, they may disagree about numerous issues, but both gain if they avoid going to war.
+
+nash equilibrium: in game theory, an outcome in a noncooperative game for two or more players in which no player’s expected outcome can be improved by changing one’s own strategy. It is also possible that a Nash equilibrium is a mixed equilibrium, meaning that at least one player should employ a specific mix of strategies rather than employing the same strategy consistently, which is a pure Nash equilibrium. For example, in the game rock-paper-scissors, the Nash equilibrium is that each player should choose each option exactly one-third of the time, because if a player chooses one option more than the others, the other player can exploit that tendency to win a greater percentage of the matches. If mixed strategies are allowed,  there is at least one Nash equilibrium for every noncooperative game with a finite number of players choosing from a finite number of strategies.
+
+backward induction: a method used in game theory to solve finite, sequential games — where players make decisions one after another, not simultaneously. It solves the game by reasoning from the end  back to the beginning, determining the optimal action at each decision point. It is used in sequential games with a known structure i.e. extensive form, when all players know the structure of the game, know the payoffs, and are rational  i.e. always choose what’s best for them.
+
+dominant strategy: a strategy that yields a higher or at least equal payoff for a player regardless of the strategies chosen by the other players. A player may or may not have a dominant strategy. If every player has a dominant strategy, the game is dominant strategy solvable. Dominant strategies do not always lead to the most optimal outcome.
+
+simultaneous games: players choose their actions at the same time or without knowing the choices of the others.
+
+sequential games: players make their moves one after another, and later players can observe previous actions before deciding.
+
+symmetric games: the rules, available options or strategies, and payoffs are identical for all players; only their identities differ. 
+
+asymmetric games: players have different available options or strategies, roles, or payoffs. The game is not balanced between them. Players face different choices or consequences. Switching roles leads to different outcomes; It often models real-world hierarchies or power dynamics.
+
+game theory/payoff: the numerical value or utility a player receives as a result of the outcome of a game. It reflects how much a player wins, loses, or benefits from a particular set of choices.
+
+game ingredients: players, strategies and payoffs.
+
+weakly dominant strategy: a strategy that is never worse and sometimes better than any other strategy a player could choose.
+
+strongly dominant strategy: a strategy that is always strictly better than any other option, no matter what the other players do.
+
+deception and unexpected strategies to defeat adversary: when one is actually capable of fighting, one should appear incapable to the adversary; when one is ready to engage in battle, one should appear unprepared; when one plans to take the short route, one should appear to take the long way; when one intends to take the long route, one should appear to take the short one; if the adversary is greedy for profit, lure it with gains; if the adversary is disordered, take the opportunity to attack; if the adversary is strong, be vigilant and guard against it; if the adversary is fierce and sharp, avoid direct confrontation temporarily; if the adversary comes in anger and strong momentum, find a way to subdue and frustrate it; if the adversary shows humility and restraint, induce arrogance and laxity; if the adversary is well-rested and organized, exhaust it; if the adversary is united, sow division among them; attack where the adversary is unprepared, strike when they do not expect it. Keep your move as a secret that must never be revealed in advance. This is Sun Tzu's Art of War strategy, emphasizing deception, flexibility, and timing.
+
+strategy hierarchy in adversity: the highest strategy is to defeat the adversary's plans before any fight begins. The next best is to undermine them through diplomacy and leave them isolated. Next is to defeat them in an open fight. The lowest strategy of all is to attack the adversary's fortified base.
+
+strategy in adversity based on strength: If one’s strength is far more bigger than the adversary, one should encircle and eliminate them; if one’s strength is stronger than the adversary, one should attack and take them; If one’s strength matches the adversary, one should divide and weaken the adversary to gain the upper hand; If one’s strength is inferior than the adversary, one should fortify and defend and must avoid decisive confrontation.
+
+information and testing strategy in adversity: if you know the adversary and know yourself, you will always be victorious and never defeated. If you know yourself but not the adversary, your chances of winning or losing are equal; there's no certainty of success.If you know neither the adversary nor yourself, you are in danger in every fight. Use strategic planning and calculations to understand the strengths and weaknesses of the adversary’s plans; gather intelligence to grasp the adversary’s patterns; display your formations to detect the adversary’s readiness and vulnerabilities; use probing engagements to gauge the strength or weakness of the adversary. 
+
+winning strategy in adversity: create conditions under which one could not be defeated, and only then wait for conditions under which the adversity could be defeated. The ability to be undefeatable lies in one's own hands; the opportunity to defeat the adversary depends on whether the adversary shows an opening. One can ensure that himself is not defeated, but cannot force the adversary to make themselves vulnerable to defeat. Therefore, victory can be anticipated, but it cannot be achieved by effort alone. Once the adversary reveals a vulnerability that can be exploited, one must shift from defense to offense. Defense is used when the adversary’s strength is stronger. Offense is used when one’s strength surpasses the adversary’s. In defense one must conceal himself so deeply like being hidden underground and invisible to the adversary. In offense one strikes with such mobility and agility like coming from the skies, impossible for the adversary to counter. In this way, one preserves oneself and achieves complete victory.
+regular and surprise strategies: those skilled in achieving success through surprise tactics possess strategies that are as infinite and boundless.Tactics consist of regular and surprise strategies, yet their transformations are limitless. The interplay of the regular and the surprising is like a circle, endless and without a beginning. There is limitless potential of creativity and adaptability in using strategies.
+
+appearance manipulation strategy: appearances can be intentionally manipulated to mislead the adversary, while true capabilities remain hidden. Apparent disorder arises from true discipline; apparent cowardice arises from true courage; apparent weakness arises from true strength. 
+manipulating adversary strategy: one can maneuver the adversary, rather than being maneuvered by the adversary.  One should control timing and situation by proactively taking initiative in strategic positioning. For example, one should arrive first at the position to be in control while the adversary arrives later fatigued and at a disadvantage.One can use psychological and logistical manipulation to draw the adversary into disadvantageous positions by disrupting their stability and exploiting their needs. With the prospect of small gains, one can lure the adversary to a position one wants him to be, or one can prevent the adversary from reaching a position by making the adversary perceive it as harmful. If the adversary is well-rested and at ease, one will find ways to harass and disturb them to make them weary; if the adversary is well-supported, one will find ways to deprive them of the support and resources; if the adversary is securely entrenched, one will provoke and agitate them so they cannot remain in peace. One’s ability to do all this lies in choosing to strike precisely where the adversary is compelled to respond and come to the rescue.
+
+unpredictability, invisibility, speed and total control in adversity: victory in offense is assured when striking places where the adversary is unprepared. Defense is secured when positioning in areas the adversary is certain to attack. Therefore, those skilled in offense make it impossible for the adversary to know where to defend; those skilled in defense make it impossible for the adversary to know where to attack. Withdrawing in a way that the adversary cannot pursue is accomplished by moving so swiftly that they cannot catch up.
+
+morale manipulation strategy: avoid confronting the adversary when their morale is high, and wait to attack when their spirit has weakened and is in decline. The morale of an adversary can be worn down, and their will and determination can also be shaken. The adversary’s morale is at its peak at first, then it begins to slacken, and eventually it is exhausted.
+
+strategic flexibility: some paths need not be taken, some adversaries need not be fought, some territories need not be contested, and even the authorities are not always to be obeyed.
+strategic mindset: do not rely on luck, hoping the adversary will not attack, but rely on your own thorough preparedness to respond whenever they do. Do not count on the adversary choosing not to strike, but depend on having the strength that makes them dare not attack you. Both advantages and disadvantages must be considered. By fully accounting for the advantages, the undertaking can proceed smoothly; by fully accounting for the disadvantages, potential disasters can be prevented in advance. Only knowing how to fight head-on leads to the danger of being killed; clinging to life and fearing death leads to the danger of being capture; being rash and easily angered leads to the danger of being provoked and disrespected; being upright and self-disciplined leads to the danger of being slandered; being benevolent and kind to the people leads to the danger of being burdened and disturbed.
+
+espionage strategy: local spies are those recruited from among the people who are familary with the adversary; inside spies are those within the adversary's inner circle who are turned into informants; double agents are those who are captured and used to serve your own side; doomed spies are those who are deliberately fed false information, including to your own agents planted in the adversary’s camp so that the false information reaches the adversary; living spies are those who successfully infiltrate the adversary’s camp,, gather intelligence, and return to report their findings.
+
+usurp the role of host strategy: the dominant party or the leading ally in an alliance is subtly manipulated, influenced, or even controlled by the supposedly subordinate party. Through careful scheming, the subordinate ally may lead the main ally into a trap that serves the subordinate's own interests and designs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,452 @@
+perception: each individual’s personal understanding of the relevant facts about a person, a situation, an event, circumstances or conditions.
+
+perception process/selection: the process of selecting the stimuli that get each individual’s attention, influenced by their needs, interests or expectations.
+
+perception process/organization: each individual’s internal process of organizing the selected stimuli as per similarity, proximity, continuity, connectedness and closure
+
+perception process/interpretation: the assigned meanings to the selected and organized stimulus by each individual based on their relevant schemas i.e. mental frameworks.
+
+learning: the process of acquisition of information, knowledge and skills. People learn through formal education, self-study, working, training or many other ways in their daily activities. Learning is a natural and ongoing part of life that takes place continually. It can involve both beneficial and negative behaviors.  To learn, a person must encounter new information or experience, pay attention to it, coordinate it with what is already known, store it in memory, and apply it. 
+
+learning method/classic conditioning: an unconditioned stimulus that naturally and automatically triggers a response is paired with an neutral stimulus. Eventually, an association forms and the previously neutral stimulus becomes known as a conditioned stimulus that then triggers a conditioned response. Unconditioned stimulus is something that naturally and automatically triggers a response without any learning. Unconditioned response is the automatic response to the unconditioned stimulus.  Conditioned stimulus is a previously neutral stimulus that, after being paired with the unconditioned stimulus, starts to trigger a response. Conditioned response is the learned response to the conditioned stimulus. 
+
+learning method/operant conditioning: learning through consequence of behavior, either rewards or punishments. Rewards is reinforcement after a behavior that increases the likelihood that a behavior will occur again. It can be positive reinforcement i.e. favorable events or outcomes or negative reinforcement i.e. removing unpleasant events or outcomes. Punishment decreases the likelihood that a behavior will occur again. It can be positive punishment i.e. unpleasant events or outcomes after a behavior or negative punishment i.e. removing pleasant events or outcomes after behavior. Extinction occurs when a response is no longer reinforced or punished, which can lead to the fading and disappearance of the behavior. Continuous reinforcement involves delivering a reinforcement every time a response occurs. In this way learning tends to occur relatively quickly, yet people become less responsive to the reinforcement over time, reducing its effectiveness. Extinction also occurs very quickly once reinforcement is halted. Partial reinforcement has four types. Providing reinforcement every time the behavior occurs can be resource-intensive and impractical in many situations. Fixed-Ratio Schedule is reinforcement after a specific number of responses, typically leading to a fairly steady response rate while Variable-Ratio Schedule is reinforcement after a varying number of responses, leading to both a high response rate and slow extinction rates.  Fixed-Interval Schedule is reinforcement after a specific amount of time has passed which has the effect that response rates remain fairly steady and increase as the reinforcement time draws near but slow immediately after the reinforcement has been delivered while Variable-Interval Schedule is reinforcement after varying amounts of time, leading to a fast response rate and slow extinction rate. Operant conditioning helps explain how behaviors are acquired and maintained and is widely applied in various fields, including education, psychology, and animal training. 
+
+learning method/observational learning: occurs by observing the actions and consequences of the behavior of other people i.e. models. There are four stages of observational learning. Attention - they must focus on what the model is engaging in, and be able to observe the model for enough time to grasp what they are doing. Retention - If the observer was able to focus on the model's behavior, the next stage is being able to remember what was observed. Reproduction - if the observer is able to focus and retain the information, the next stage is to replicate it.  Every individual will have their own unique capacity when it comes to imitating certain behaviors, meaning that even with perfect focus and recall, some behaviors may not be easily copied. Motivation - in order for the observer to engage in this new behavior, they will need some sort of motivation. Motivation may increase if the observer watches the model receive a reward and the observer believes they will also receive some reward if they imitate said behavior. Motivation may decrease if the observer had knowledge of or witnessed the model being punished for a certain behavior.  When it comes to observational learning, individuals don't just imitate what they see because the context matters.
+
+learning cycle: learning has a four-stage cycle. First, concrete experience - immediate and concrete experiences serve as a basis for observation by an individual. Secondly, reflective observation - the individual reflects on these observations and understands what this information might mean. Thirdly, abstract conceptualization - the individual forms abstract concepts and generalizations based on their hypothesis. Finally, active experimentation - the individual tests the implications of these concepts in new situations. After this step, the process once again cycles back to the first stage of the process.
+
+learning style: the preferred ways in which individuals process and understand information. Many people use a combination of learning styles depending on the context and subject matter. Being flexible and employing multiple strategies can enhance overall learning. Understanding your own preferred learning style can help tailor your learning methods, but it’s also useful to be open to other styles for a more comprehensive approach.
+
+learning style/visual: prefer to see and use images, diagrams, charts, and written instructions. They often benefit from visual aids and might remember information better when it’s presented visually.
+
+learning style/auditory: learn best through listening and verbal communication. They prefer discussions, lectures, and audio materials.
+
+learning style/kinesthetic: prefer hands-on experiences and learn best through movement and physical activities. They might struggle with passive learning methods like lectures.
+
+learning style/reading and writing: prefer reading and writing as their primary modes of learning. They benefit from engaging with written material and organizing information through writing.
+
+learning style/social: learn best through interaction with others. They thrive in group settings and benefit from collaboration and discussion.
+
+learning style/solitary: prefer to work alone and learn best through self-reflection and individual study. They often have strong self-awareness and personal goals.
+
+learning style/logical: prefer using logic, reasoning, and systems to understand concepts. They are good at recognizing patterns and solving problems.
+
+learning style/creative: learn best through creative and artistic activities. They often use imagination and innovation to process information.
+
+cognitive bias: a systematic error in thinking that occurs when an individual processes and interprets the information in their surroundings, which influences their decisions and judgments.
+
+cognitive bias/overconfidence Bias:the tendency to overestimate one’s abilities and skills.
+
+cognitive bias/anchoring Bias: the over-reliance on the first piece of information in decision-making.
+
+cognitive bias/conformity Bias: the tendency to change one’s opinion or behavior to match that of a group even if one doesn’t agree with it.
+
+cognitive bias/affinity Bias: the tendency to favor those who share similar experience, background or interests etc.
+
+cognitive bias/confirmation Bias: the tendency to seek and use the information that confirms one’s views or expectation
+
+cognitive bias/availability heuristics: the tendency to make decisions based on information that comes readily to mind.
+
+cognitive bias/affect heuristics: the tendency to make decisions based on emotions.
+
+cognitive bias/hindsight bias: the tendency to perceive past events as more predictable than they actually were.
+
+cognitive bias/commitment Bias: the tendency to remain committed to one’s past behaviors, particularly those exhibited publicly, even if they do not have the desired outcomes
+
+cognitive bias/framing effect: the tendency of people to react differently to the same thing depending on how it is presented
+
+cognitive bias/halo effect: the tendency to draw a general impression based on a single characteristic.
+
+cognitive bias/authority bias: the tendency to blindly believe in authority figures.
+
+cognitive bias/recency bias: the tendency to attribute greater importance to recent events over past events.
+
+cognitive bias/idiosyncratic rater bias: the tendency to rate others based on one’s subjective interpretation of assessment criteria e.g. a rater specialized in an area will have a higher standard while a rater unfamiliar with an area will have a lower standard.
+
+cognitive bias/false consensus effect: the tendency to overestimate how much others agree with one's opinion and believe a majority of people share the consensus, even if that is not the case.
+
+cognitive bias/fundamental attribution error: the tendency to attribute others’ behavior to the internal factors e.g. personal characteristics rather than the external factors e.g. situational variables 
+
+cognitive bias/actor-observer bias: the tendency to attribute own behavior to external causes.
+
+cognitive bias/self-Serving Bias: the tendency to attribute own success to internal factors e.g.personal characteristics while blaming external factors for failures. 
+
+cognitive bias/self-fulfilling prophecy: the process that an expectation or belief that influences one’s behavior causes the expectation or belief to become true. The expectation or belief may be self-imposed or imposed by others.
+
+cognitive bias/attentional bias: the tendency to focus on certain information than other information.
+
+cognitive bias/endowment effect: the tendency to value more of the owned object than if the same object is not owned.
+
+cognitive bias/loss aversion bias: one feels the pain of loss more intensively than the equivalent pleasure of gain.
+
+cognitive bias/dunning-kruger effect: the phenomena that those who are least competent in a certain subject area overestimate their skills the most and those who are most competent think less of their own talents/
+
+cognitive dissonance: the tendency to avoid a conflicting belief or information because it makes us uncomfortable, by rejecting, rationalizing or avoiding.
+
+cognitive bias/status quo bias: the preference for maintaining one’s current situation and opposing action that may change the state of affairs.
+
+cognitive bias/survivorship bias: occurs when an individual only considers the surviving or successful subgroup without considering the whole group.
+
+attitude: the feelings and positions toward things or people. Attitude can be a general mindset or on a specific matter; be explicit or implicit; and
+include assessments about: the possibility of the desired outcome to be achieved, the subject norms e.g. whether related people approve or not, the social norms e.g. whether it is in line with customary code of behavior in the larger group, the perceived power e.g. factors that facilitate or impede the performance of the actor, the perceived behavior control e.g. the difficulty level to perform the behavior. 
+
+attitude type/positive attitude: feeling favourably about someone or something.
+
+attitude type/optimistic: feel and believe that good things will happen in the future and things will work out for the best though there may be temporary challenges.
+41. attitude type/supportive: be willing to give help or assistance or hold someone up.
+
+attitude type/friendly: be kind and caring for others.
+
+attitude type/submission: accept or yield to a superior force or to the will or authority of another person.
+
+attitude type/negative attitude: feeling unfavorably about someone or something.
+
+attitude type/pessimistic: a feeling and belief that bad things will happen in future.
+
+attitude type/uncooperative: be unwilling to help others or do what others ask for.
+
+attitude type/complain: express dissatisfaction or annoyance about something.
+
+attitude type/hostile: be unfriendly like an enemy.
+
+attitude type/cynicism: doubt and disbelief of the motive, sincerity or integrity of others.
+
+attitude type/aggressiveness: show anger and willingness to attack others physically or verbally, including coercion or manipulation, or dominate energetically and pursue goals in disregard of others rights.
+
+attitude type/vengeance: the desire to do something to hurt someone because that person did something that hurt you or someone else you care for.
+
+attitude type/contempt: an attitude of dislike for or superiority over other people or their actions. It asserts power or status. It can lead to social exclusion and seriously damage the relationships.
+
+attitude type/derisiveness: demean or belittle expressions to humiliate and frustrate others
+
+attitude type/neutral attitude: feeling neither favorably or unfavorably. 
+
+attitude type/indifference: no special liking for or dislike of something or someone, not caring.
+
+intention: the mental state of planning to do something. it may lead to action but not always when there is an intention action gap. The stronger the intention is, the more likely it will lead to action.
+ 
+emotion: a strong and short-time feeling including physiological arousal, conscious experience and behavioral expressions triggered by internal or external stimulus. It can vary in strength and change quickly. One emotion can lead to other emotions. A complex emotion consists of several different types of emotions. One may try to regulate emotions consciously or unconsciously with different degrees of success.
+
+mood: a less intense emotional state that lasts for a longer time than emotion.
+
+emotion type/serenity: a pleasant, calm, peaceful, quieting, at ease and relaxed feeling with a sense that all is well and there is nothing urgent to do. It reduces aggressive behavior and enhances prosocial behavior.
+
+emotion type/joy : a momentary sense of happiness on accomplishing something beyond expectation or seeing alignment of circumstances with personal values, goals and identity. It motivates one to invest more energy in what truly matters.
+
+emotion type/ecstasy; extreme happiness.
+
+emotion type/affection: a warm feeling for someone who is appealing and whom you want to be close to and spend time with.
+
+emotion type/delight: a feeling of joy plus surprise i.e. being pleasantly surprised by some pleasure that is not expected. It increases the level of engagement and emotional attachment to the experience.
+
+emotion type/gloominess: a feeling of being down, no fun and low energy.
+
+emotion type/ sadness: a feeling of being unhappy triggered by loss of something important or by upsetting, painful or disappointing situations. It tends to make one more self-focused.
+
+emotion type/ grief: feel a feeling of loss or being overwhelmingly sad, unable to carry on regular duties, due to loss of something very important.
+
+emotion type/acceptance: acknowledge the fact of a situation or thought, emotion or feeling as what it is without rejecting, avoiding or changing it. It leads to calmness and peace or reduces unpleasant emotional experiences.
+
+emotion type/trust: a feeling of confidence and security in someone. It is essential in the health of personal relationships as it provides the sense of safety. One takes risk by allowing a trusted person to exercise certain control over matters that are important to oneself.
+
+emotion type/admiration:  a positive feeling experienced when one looks up to someone or something that possesses certain extraordinary traits, such as talent, competence, disposition or characteristics etc.  It might motivate one to emulate or work harder on the relevant things.
+70. emotion type/adoration: a profound love and admiration.
+
+emotion type/boredom: a feeling of lack of interest and difficulty in concentrating on the current activity due to the activity's lack of stimulation, or lack of connection such as there is too much challenge to handle. It can be a catalyst for change and motivates one to reflect on the current activity and to seek for stimulation which can be good or bad.
+
+emotion type/disgust: a feeling of something is aversive, repulsive or toxic, perceived with physical senses or by ideas, actions or appearances of people. It keeps one to stay away from, or to remove the things that cause disgust.
+
+emotion type/loathing: a feeling of extreme disgust. 
+
+emotion type/apprehension: a mild feeling of fear.
+
+emotion type/fear: a sense of danger or feeling threat of harm, either physical, emotional, psychological, real or imagined. It can be immediate or impending in various degrees of intensity. It can mobilize one to cope with the threat, such as fight or flight, or immobilizes one, such as freezing and feeling helpless. With fear, one may take actions which are not usually done.
+
+emotion type/terror: an overwhelming feeling of fear.
+
+emotion type/annoyance: a feeling of irritation when someone or something disturbs you or against your wish. It is mild, less intense than anger and tends to subside quickly.
+
+emotion type/anger: a feeling of aggression and hostility toward someone you feel who has deliberately done you wrong or toward something that went wrong. There is a desire to retaliate or punish. It can also motivate one to find solutions to problems. Anger may cause physical changes such as increasing blood pressure and cause problems to physical or mental health.
+ 
+emotion type/rage: excessive and extreme anger that is often violent emotionally, physically or verbally. It makes it difficult to think straight and can cause abuse and destruction to oneself or others. 
+
+emotion type/resentment: an unpleasant mixture of feelings of disappointment, disgust and anger that one experiences when treated unfairly, or when one gets less than deserved or someone else gets more than deserved.
+
+emotion type/hatred: an intense negative emotion of opposition or revulsion toward certain people, things or ideas, associated with intense feelings of anger, contempt and disgust. 
+
+emotion type/indignation: a feeling of anger aroused by something unjust or unfair. It makes one want to speak out about injustice or unfairness or take actions to stop it.
+
+emotion type/interest: a feeling of being attracted that causes attention to focus on a person, object, event or process. It motivates one to explore new and complex things.
+
+emotion type/anticipation: a feeling of considering and expecting that something is going to happen. It involves excitement and anxiety, increases motivation, optimism, patience and decreases irritability.
+
+emotion type/vigilance: the concentrated attention on certain topics or objects over prolonged periods of time.
+
+emotion type/craving: a very strong desire of wanting something.
+
+emotion type/love: a set of emotions and behaviors characterized by intimacy, passion and commitment. It involves care, closeness, protectiveness, attraction, affection, and trust. Love can vary in intensity and can change over time.
+
+emotion type/distraction: it occurs when one’s attention is temporarily taken away from what it should be focused on, caused by external factors such as noises or internal factors such as stress etc. It can disrupt goal-oriented efforts. It can also be used as a coping strategy to intentionally take one’s mind off a distressing emotion for a break to help figure out a way when one is calmer.
+
+emotion type/surprise: a sense triggered by the unexpected events or things which cause one’s attention to focus on the unexpected. It is very brief and followed by other emotions or no emotions depending on the nature of the appraisal of the unexpected.
+
+emotion type/amazement: a sense of astonishment and shock triggered by truly unusual things that are wildly beyond expectation.
+
+emotion type/hopeful: a feeling of optimism about a future event.
+
+emotion type/curiosity: a strong desire to learn or know something when there is an information gap. It motivates one to gain more knowledge and information to fill the gap. It can be a pleasant or unpleasant feeling.
+
+emotion type/shock: a feeling of being overwhelmingly upset and unable to process or respond due to a completely unexpected event or a traumatic incident. One might feel numb, cry or rage.
+
+emotion type/confusion: a feeling of being unable to make sense about conflicting or contrary information or lack of information. It will sustain until a solution is found. It may motivate one to explore a solution.
+
+emotion type/helplessness: a feeling of being unable to act or react to a negative situation.
+
+emotion type/hurt: a sense of emotional pain and distress caused by someone’s words or actions or other negative emotions.
+
+emotion type/doubt: a sense of being unable to make decisions due to uncertainty, distrust or lack of information.
+
+emotion type/reluctance: a sense of a certain degree of unwillingness to do something due to fear of unknown, uncertainty or failure.
+
+emotion type/pity:  a feeling of sadness and compassion for someone else because they are suffering or in an unfortunate situation.
+
+emotion type/misery: an unhappy and distressful feeling of being stuck in an unwanted situation which one cannot resolve, change or get out of easily or quickly.
+
+emotion type/envy: a painful feeling when one doesn't have certain valued attributes or possessions that someone else has, who is similar in some way. It involves emotions of sadness, anger and inadequacy. It makes one feel inadequate and shameful in comparison with others, who may hope something bad happens to the other one . 
+
+emotion type/jealousy: a painful feeling as a response to the threat to a valuable relationship e.g. friend, partner etc. from a 3rd party seen as a rival for affection and attention. It involves emotions of fear, anger, inadequacy and suspicion. It tends to occur in intensity as much as low self-esteem, high neuroticism, feeling possessive of others and fear of abandonment. It can engage one to maintain the valued relationship. It can also make one behave in unreasonable, controlling and damaging ways.
+
+emotion type/anxiety: a feeling of a lot of worry, fear and stress about perceived threats in difficult situations. It causes restlessness, uncontrollable feelings of worry, difficult concentrating, increased irritability and sleep difficulties. One with anxiety may tend to avoid social interactions or situations that cause anxiety.
+
+emotion type/regret: a negative feeling experienced when realizing or imagining that the present situation would have been better, if one acted differently. It involves self-blaming and shame and can lead to stress and emotional pain. One may try to avoid regret in future by making better decisions.
+
+emotion type/disappointment: feeling sad and dissatisfied when expectations are not met as hoped for, proportional to the mismatch between the expectations and the actual outcomes. One may try to manage disappointment by adjusting expectations or making better decisions. This emotion may also lead to resentment or blaming.
+107. emotion type/loneliness: a feeling when one thinks there is no one who cares about them. It is a sense of social isolation or threat of social isolation. A lonely person wishes to connect with others, however they also tend to have lower trust in others which negatively impacts their connection with others.
+
+emotion type/rejection:  a feeling of being hurt when you fail to get attention, friendship, or approval from a person or group of people from whom you want to receive. It can lead to other emotions such as sadness, shame, anxiety, anger etc.
+
+emotion type/ insecurity: a feeling of being not good enough, fearing to be pushed aside or abandoned, and of uncertainty in securing the present positive state. It produces anxiety about goals, relationships, and ability to handle certain situations. It reduces self-esteem and can come from a variety of causes.
+
+emotion type/ambivalence: a feeling of tension and conflict when simultaneously experiencing two contradictory emotions e.g. positive and negative emotions. It helps one to see different aspects of a thing and make better decisions. It can also make one unable to make a decision.
+
+emotion type/bittersweetness: a feeling of mixed emotions of happiness and sadness about something or someone.
+
+emotion type/nostalgia: longing for the past when things seem better, easier and more fun, which may be people, places, moments or beloved things. It involves both positive emotions such as pleasure and warmth, and negative emotions such as a sense of loss etc. but mostly positive feelings. It might boost self-esteem and foster social connectedness.
+
+emotion type/despair: a feeling of complete loss of hope, usually accompanied by desperation, anguish and sadness.
+
+emotion type/guilt: a feeling of tension, regret and remorse when one attributes the responsibility to oneself for a problematic behavior or a negative outcome. One might engage corrective, restorative or compensating behavior, try to do better in future or avoid things that remind them of guilt. It might lead to other negative emotions such as anxiety and stress etc.. Harm intensity predicts guilt. Guilt increases with greater harm inflicted. It strongly predicts compensatory actions such as offering restitution.
+
+emotion type/shame: a sense of self shrinking, smallness, worthlessness and fearing to be exposed as defective when one transgresses a social norm or expectation and criticizes self for it. One might try to avoid community, friendship or other situations to hide and conceal the self-perceived vulnerabilities. Perceived responsibility predicts shame. Shame rises with higher personal responsibility. It requires greater cognitive control to influence the behavior driven by shame. 
+
+emotion type/embarrassment: an uncomfortable feeling when something makes you worry that other people are not viewing you highly or seeing you fail to comply with social norms, for something you've said or done, how you look or something that's been said about you.
+117. emotion type/humiliation: an intense painful feeling when someone has deliberately put you down or make you look lesser in status or worth in the eyes of others, often in the presence of an audience, and you feel you have no power over the situation. 
+
+emotion type/distress: the intense feeling of inability to cope with and need for help when something bad happens.
+
+emotion type/pride: a feeling of self-worth and self-esteem derived from achievements or accomplishments. It promotes one’s prestige based on earned respect. 
+
+emotion type/arrogance: a feeling of inflated self-worth and self-esteem not based on corresponding achievement or accomplishment, but based on overconfidence of personal capabilities or strengths, thinking everyone else is less capable. It involves dominance, coercion and manipulation. 
+
+emotion type/confidence: a feeling of being sure of oneself and one’s capabilities in a realistic and secure way.  It is not feeling superior to others. It is inner knowledge about what one is capable of doing. It feels more secure than insecure.
+
+emotion type/dominance: a feeling of being more powerful, influential, successful or noticeable than other people or things. It involves assertion, controlling, aggression, intimidation or coercion. 
+
+emotion type/outrage: a feeling of moral emotion of anger and surprise toward betrayal or transgression of a social norm or wrongdoing.
+
+emotion type/worry: a feeling of negative thoughts, uncertain outcome or things that may go wrong. It happens in one’s mind rather than in the body. It can prompt one to take actions and solve problems or lead to obsessive thoughts.
+
+emotion type/ennui: a feeling of being bored and tired.
+
+emotion type/dispirited: a feeling of low spirit. 
+
+dissatisfaction: a feeling of being unfulfilled when something happens that is less than the expected or what one feels entitled to get.
+ 
+emotion type/ frustration: a feeling when things don't go the way as you expected or something is not achieved because of your inability. It can lead to irritability and stress.
+
+emotion type/puzzlement: a feeling of something is challenging, which forces one to think harder to understand it.
+
+emotion type/pleased: a pleasurable sense of satisfaction.
+132. emotion type/satisfaction: a sense of pleasure and contentment from accomplishing something or fulfilling a need. 
+emotion type/contentment: a feeling of being satisfied with the status quo.
+
+emotion type/thrilled: feeling great pleasure and excitement. 
+
+emotion type/enthusiasm: a strong emotion of intense enjoyment, passionate eagerness and conviction of worthiness toward someone or something. It involves playfulness, inventiveness, optimism, zest and high energy. 
+
+emotion type/amusement: a feeling of experiencing humorous and entertaining events or situations, associated with enjoyment and pleasure. It is a positive emotion with high physiological arousal.
+
+emotion type/relief: a feeling when an unpleasant experience is finally over, or when something dreaded has not happened or will not happen and one can finally take mind off it.
+
+emotion type/schadenfreude: a feeling of enjoyment about another person’s misfortune, either because you dislike them or you believe they deserve it.
+
+emotion type/gratitude: the feeling of the urge to reciprocate by doing something good and nice back and get closer to someone who has gone out of their way to do something good or nice for you, which is more than what you expected.
+ 
+emotion type/relaxation: the emotional state of low tension, in which there is an absence of arousal, particularly from negative sources such as anger, anxiety, or fear.
+
+emotion type/calmness: a feeling of being free from agitation, excitement or disturbance.
+
+emotion type/excitement: a strong feeling of expecting something very good or nice will happen, experiencing eagerness, enthusiasm, anticipation and impatience in expectation of the upcoming pleasant and arousing experience.
+
+emotion type/enlightenment: a state of emotional and psychological ease along with elevated awareness and understanding of truths about life.
+
+emotion type/epiphany: intense emotional experience in which a person has a sudden insight or realization of the essential nature or meaning of something which brings totally new attitudes and perceptions. This abrupt change is not planned or foreseen by the individual though it might have been yearned for.
+
+emotional disorder: it is a psychological disorder that leads to inappropriate and exaggerated emotional responses, chronically low mood, and negative physical symptoms. It impairs one's ability to cope with negative emotions or to uphold relationships.
+
+emotional disorder type/depression: a persistent feeling of sadness and loss of interest. Depression is different from usual mood fluctuations and short-lived emotional responses to challenges in everyday life. During a depressive episode, the person experiences a depressed mood, feeling sad, irritable, empty or a loss of pleasure or interest in activities, for most of the day, nearly every day, for at least two weeks. Several other symptoms are also present, which may include poor concentration, feelings of excessive guilt or low self-worth, hopelessness about the future, thoughts about dying or suicide, disrupted sleep, changes in appetite or weight, and feeling especially tired or low in energy. People with depression are at an increased risk of suicide.
+ 
+emotional disorder type/self-loathing: constantly feeling hate on oneself and excessive self-criticism.
+ 
+emotional disorder type/anxiety disorder : anxiety disorders are characterized by excessive fear and worry and related behavioural disturbances. Symptoms are severe enough to result in significant distress or significant impairment in functioning. There are several different kinds of anxiety disorders, such as: generalized anxiety disorder characterized by excessive worry, panic disorder characterized by panic attacks, social anxiety disorder characterized by excessive fear and worry in social situations, separation anxiety disorder characterized by excessive fear or anxiety about separation from those individuals to whom the person has a deep emotional bond, and others.
+
+emotional disorder type/bi-polar disorder: people with bipolar disorder experience alternating depressive episodes with periods of manic symptoms. During a depressive episode, the person experiences a depressed mood feeling sad, irritable, empty or a loss of pleasure or interest in activities, for most of the day, nearly every day.  Manic symptoms may include euphoria or irritability, increased activity or energy, and other symptoms such as increased talkativeness, racing thoughts, increased self-esteem, decreased need for sleep, distractibility, and impulsive reckless behavior. People with bipolar disorder are at an increased risk of suicide.
+
+post-traumatic stress disorder (PTSD): PTSD may develop following exposure to an extremely threatening or horrific event or series of events. It is characterized by all of the following: 1) re-experiencing the traumatic event or events in the present with intrusive memories, flashbacks, or nightmares; 2) avoidance of thoughts and memories of the events, or avoidance of activities, situations, or people reminiscent of the events; and 3) persistent perceptions of heightened current threat. These symptoms persist for at least several weeks and cause significant impairment in one’s normal functioning.
+
+attention-deficit hyperactivity disorder (ADHD): ADHD is characterized by a persistent pattern of hyperactivity and impulsivity and/or inattention that interferes with functioning and presents itself in two or more settings such as at home, work, school, and social situations.
+
+obsessive-compulsive disorder: a long-lasting disorder in which a person experiences uncontrollable and recurring thoughts i.e.obsessions, engages in repetitive behaviors i.e.compulsions, or both.
+
+Emotion and behaviour/stress and excessive use of internet content: a stressful mental state such as depression, anxiety, loneliness and low-esteem etc. tends to impair one’s self-control ability and self-efficacy, which makes one prone to problematic behaviors. Individuals in stressful situations might be vulnerable to internet content including short-form video, games, social media etc.. They tend to overuse or even become addicted to the content which afford them the compensatory potential to experience enjoyment and escape from negative life situations. The excessive consumption of the internet content may lead to physical problems such as fatigue, dry eye, back pain etc. or more psychological problems such as difficulty in concentrating, withdrawal, bad temper, or even more depression and loneliness. 
+
+beliefs: ideas which an individual holds to be true about the world, others and oneself. Some examples are: religious belief, political belief, societal belief etc.
+
+values and morals: long-lasting and stable beliefs about what is important to a person or what is right or wrong. Values become a guide for a person to think, behave and make choices. A person may claim or pretend holding certain values while in reality hold opposite values. Some examples of values include: integrity (adhere to moral values), honesty (be truthful), discipline (obey rules), fairness (treat people equally and just), respect (treat others with dignity and consideration), responsible (reliable and dependable), accountable (take responsibility for one’s own mistakes), kindness (show care for others), forgiveness (let go of anger and resentment), compassion (feel empathy for others), courage (be able to do things even being afraid), loyalty (show constant and unwavering support), humility (be modest and humble), gratitude (be thankful), risk-taking (take actions to pursue goals with a perceived uncertainty about its outcome), self-centered (always put one’s own interest at the top even if it hurts others), money-oriented (money is the most important thing), family-oriented (family is the most important thing), win-at-all-costs (win is the most important thing. It doesn’t matter if the means or methods are ethical or not) etc. 
+
+personality: traits and patterns of a person’s acts, thoughts and feelings. Each trait has a spectrum of intensity from low to high.
+
+personality trait/openness: the degree of willingness to be exposed to new experiences, being curious, creative, imaginative, adventurous.
+
+personality trait/conscientiousness: the degree of being thoughtful, goal-oriented, well-planned, well-organized, responsible and perseverance
+
+personality trait/extraversion: the degree of being outward, assertive, enjoying being center of attention, feeling energetic in socializing with large group of people
+
+personality trait/agreeableness: the degree of being cooperative, concerning, caring and feeling empathy for others
+
+personality trait/neuroticism: the degree of emotional volatility and the tendency toward anxiety, depression, anger and other negative feelings.
+
+psychological pattern: the recurring and predicted psychological responses to certain situations or stimuli. It happens immediately and automatically. Sometimes it is appropriate. Sometimes it is misguided and harmful, even though it is against rational thoughts. In this case, one will struggle in internal conflicts. Response patterns are formed through learning and experience impacted by genetic inheritance. Reflection through mindful observation and awareness can help adapt or change harmful patterns with new healthy patterns. However, it is not easy to change existing patterns. Intervention might be required.
+
+thought pattern: recurring and predictable thought responses to certain situations or stimuli. A thought is a mental representation of something, in the form of ideas, memories or images, such as making judgments or decisions, making senses, predicting, recalling or imagining etc. Some thoughts are fleeting, but others can be formed into long-term memories. When a thought is repeated and reinforced over time, it can form a pattern. You won’t always be aware of your thoughts, but they can still have an influence on your actions. People use the available information to generate thoughts. Often, there isn’t enough information. Your mind will try to fill in the blanks by making predictions and use the relevant past experiences to help with this process. In addition, the world is complicated and your mind manages this complexity by taking short-cuts and simplifying the information you’re taking in. Traumatic experience will make your brain more sensitive to potential perceived threats. In this process, your mind won’t always get it right. All of this can distort how you see the world. Biased and inaccurate thought patterns can cause you to view reality in inaccurate and overly- negative ways.
+
+thought pattern/black-and-white thinking: see the world in extremes. If one tries a new task and it doesn’t go as well as they hoped, they might think it’s a total failure. One might think that they are always right or that someone else is always wrong. People engaging in this way of thinking might view people or situations in their life as being either all good or all bad. 
+
+thought pattern/should thoughts: set rules in head for how oneself or others ‘should’ or ‘must’ be. ‘Should’ thoughts can create unrealistic expectations. making you feel frustrated, guilty or ashamed when they are not met with. It can make you feel angry or bitter when others don’t conform to your expectations.
+
+thought pattern/catastrophizing: automatically assumes that the situation will end in the worst possible way. One might think that their partner not answering their phone means that they are going to break up with them, that failing an exam means they are going to fail their entire course or that their pet will die if they have to go to the vet. Catastrophizing can have a negative impact on mental health because every-day worries can quickly spiral and cause a lot of anxiety. While some people might think that someone who catastrophizes a lot is just over-reacting, it’s important to understand that this way of thinking can be a reaction to experiencing repeated negative or traumatic events.  
+
+thought pattern/mind-reading: believe that they know what another person thinks or feels, even when they have no confirmation if it’s true. One might think that a stranger doesn’t like how they’re dressed because of how they looked at you, or one might think their friend finds them boring because they’re quieter than usual. Mind-reading can often be confused with empathy. Empathy is the ability to understand how someone might be feeling in a certain situation. Mind-reading is different because it makes one believe they know the other person’s thoughts or intentions with certainty. It doesn’t leave room for alternative explanations of their behavior. 
+
+thought pattern/ fortune-telling: fortune-telling makes one think that a situation is going to go badly before it actually happens. Assuming negative outcomes like this can cause a lot of anxiety because one is worrying about lots of potential situations that may never happen. If someone is expecting a situation to end badly before it begins, it can discourage them from trying and make them feel like one can’t influence the outcome. 
+
+thought-pattern/over-generalization: when one over-generalises, they reach a broad conclusion based on one or two single events. For example, they might think that they will be alone forever because their first relationship ended. Over-generalization can be limiting and act as a barrier in life. When someone have a negative experience with something, it doesn’t mean that they can’t have positive experiences with that thing in the future. Life is usually too complex and ever-changing to make sweeping generalization.
+
+thought pattern/ignoring the positive: With this pattern of thinking, a person will ignore the positive parts of a situation and only focus on the negative parts. This thought pattern can also cause one to not take credit if something positive happens to them. Discounting the positive can take a toll on mental health. It can make situation seem more negative than it actually is and can lower mood. It can also have an impact on self-esteem. 
+
+emotion pattern: recurring and predictable emotional responses to certain situations or stimuli. An emotional experience has three components: a subjective experience, a physiological response and a behavioral or expressive response.
+
+temperament/sanguine: enthusiastic, active, and social.
+
+temperament/choleric: short-tempered, fast, and irritable.
+
+temperament/melancholic: analytical, wise, and quiet.
+
+temperament/phlegmatic: relaxed and peaceful.
+
+behavior pattern: recurring and predictable behavior responses to certain situations or stimuli.
+
+self identity: how you identify and define yourself and your own traits. 
+
+personal identity: how others identify and define a person’s traits.
+
+social identity: the traits of a social group which one belongs to.
+
+style: the way one approaches and manages things.
+
+style/idea-oriented: be creative and expressive, big-picture-oriented.
+
+style/practical: be a doer, get things done, be productive.
+
+style/logical: be systematic, analytical and data-based.
+
+style/detail-oriented: be meticulous and accurate.
+
+style/supportive: be ready to assist others, be cooperative and relationship-oriented.
+
+style/flexible: be adaptive to changes and different environments.
+
+style/leader:take control of the work, inspirational and have an vision.
+
+habit: a person’s behavior that is repeated regularly and automatically. 
+
+intelligence: the ability to acquire, understand and use knowledge.
+
+intelligence/analytical intelligence: the ability to evaluate information and solve problems.
+
+intelligence/creative intelligence: the ability to come up with new ideas.
+
+intelligence/practical intelligence: the ability to adapt to a changing environment.
+
+emotional intelligence/perception of emotion: the ability to recognize and identify one’s own and other’s emotions using facial expressions, tone of voice, and body language etc., as well as to express and communicate the emotional needs.
+
+emotional intelligence/ understand emotion: the ability to differentiate between one’s own and other’s emotional states, as well as their specific causes and trajectories.  
+
+emotional intelligence/use emotion: the ability to use one’s own and other’s emotions impact on actions and behaviors to make decisions, to adapt to various situations and to achieve desired outcome.                                                  
+
+emotional intelligence/manage emotion: the ability to regulate, influence, change or control one’s own and others’ emotion
+
+social skills/influence: the ability to wield effective persuasion tactics.
+
+social skills/communication: the ability to communicate ideas and feelings clearly, verbally and non-verbally i.e. using body language.
+
+social skills/listening: the ability to pay attention to others who are communicating and absorb what they actually say.
+
+social skills/leadership: the ability to Inspire and guide groups and people.
+
+social skills/change catalyst: the ability to initiate or manage change.
+
+social skills/conflict resolution: the ability to understand, negotiate and resolve disagreements or disputes.
+
+social skills/relationship building: the ability to build connections and maintain the existing relationships.
+
+social skills/collaboration and cooperation: the ability to work with others toward shared goals.
+
+social skills/team building: the ability to build and create group synergy in pursuing collective goals.
+
+social skills/political skills: the ability to use the power tactics such as rational persuasion, inspirational appeal, consultation, exchange, personal appeal, coalition, legitimating, pressure etc.
+
+education: a person may attend and complete their official education at various education institutions including primary schools, middle schools, high schools, colleges, universities. The education levels from low to high include foundational, tertiary, undergraduate, graduate, doctor, post-doctor. A person’s higher level education, such as in college or university, has one or more focused areas which prepares them for future jobs. People’s educational performances vary. Besides the official education system, people may attend training institutions to acquire additional skills and knowledge or educate themselves. A person’s education has an enormous impact on knowledge, skills, character, personality, ideas, beliefs, values, goals, personal development and growth etc. It greatly affects a person's path and choices related to work and life as well as their social status. 
+
+talent: a person’s natural skill or ability to be good at something, for example, in sports, arts, music, academics, social skills or many other areas. A person’s talents can drive creativity, give them a sense of accomplishment and self-satisfaction, motivate them to do better, and provide identity in their life. In addition, talent draws attention from people and helps gaining recognition, and opening up career and other opportunities.
+
+hobby: an activity that a person does regularly for fun during leisure time. A hobby can help a person to unwind and relieve stress. It can also make a person more interesting. It is good for mental and physical health. Some examples of healthy hobbies are reading, singing, painting, cooking, golfing, fishing, traveling, hiking, or other sport activities etc.. 
+
+bio-characteristics: height, weight, fitness, strength, health, age, gender, race, ethnicity etc.. These characteristics directly impact a person’s  identity, choices, thinking and behavior.
+
+religion: a person’s religious belief provides code of conduct, moral compass as well as cultural background which greatly impacts a person’s thinking and behavior.
+
+family: a person’s family situation greatly impacts their wellbeing and social status. There are different types of families, each in various kinds of situations and impacting a person’s thinking and behavior in profound ways.
+
+personal resources: the materialist or social capital that is available for a person to use to achieve their goals and objectives, including personal wealth, personal social status, personal power i.e. formal or informal power of decision-making and influence in an organization or a group, personal social connections, family wealth, family social status and connections. 
+
+job: the regular work a person does to earn money. There is defined scope of work, responsibilities, qualifications and skills requirements for a job. If a person works in an organization, the key metrics related to their job include job title, role, function, pay and benefits, reporting line, authority i.e. formal and informal decision-making power, performance goals, and job path i.e. career path etc. A job provides a person’s earnings that support their living and impact their life quality. It provides a person with social belongings. A person’s job is also an important part of personal identity, growth and influences a person’s social status.
+
+occupation: it is not a specific work or a job but a field of career interest or profession, such as engineers, sales, management, doctors, lawyers, accountants etc.. There are various published classifications of occupations by governments or international organizations which define the nature of each occupation. Each occupation requires certain expertise, experience, skills and qualifications. Occupation selection greatly impacts job options in a way that a person usually can only take jobs within their occupation. Occupation impacts a person’s income level, social status and personal identity. It also impacts a person’s belief, character, personality, thinking and behavior.
+
+quality of life:  the degree to which an individual is healthy, comfortable, and able to participate in or enjoy life events. It is not just about material aspects but also about spiritual aspects like happiness and satisfaction. There are five aspects i.e. physical wellbeing, material well being, social wellbeing, emotional wellbeing, and development and activity.
+
+decision-making/prospect theory: people tend to prioritize avoiding losses over acquiring equivalent gains under uncertainty i.e. loss aversion, because the psychological pain of losing is twice as powerful as the pleasure of gaining. However, their risk preferences shift based on the framing of choices. People are risk-averse when faced with gains but risk-seeking when facing losses. People tend to choose options with more certain outcomes and to focus on the differences between our options rather than the similarities. People perceive and distort probabilities when making decisions, often overestimating small probabilities and underestimating large probabilities. There is a reference point which is a relative utility that people consider when evaluating potential losses or gains instead of evaluating the options according to one's overall wealth. This means that the same outcome can feel like a gain or a loss depending on how it is framed. The decision-making under uncertainty goes through two phases, editing phase and evaluation phase. In the editing phase, people simplify complex choices, categorize outcomes as gains or losses relative to a reference point, and sometimes eliminate options that seem clearly inferior. In the evaluation phase, people assess the remaining options, but not in a purely rational way. They weigh potential gains and losses differently, often overestimating small probabilities and underestimating large ones.
+
+decision-making/expected utility theory: when individuals make a choice under uncertainty, they will choose the option with the highest expected utility, as they behave perfectly rationally. When it comes to evaluating losses and gains, the level of happiness one feels when gain would be equal to the level of sadness when losing the equivalent gains because losses and gains are valued equally.
+
+individual traits development and change: individuals start life with genetically driven differences in relevant neural structures that manifest in the degree to which they are motivated for and experience reward from social interaction.  Innate temperamental differences are upregulated or downregulated through positive and negative feedback loops in early life interpersonal situations, which lead to lasting individual differences in personality and its development through continued interactions. 
+
+addiction: a chronic condition that involves compulsive seeking and taking of a substance or performing of an activity despite negative or harmful consequences. Addiction can significantly impact physical and mental health, relationships and overall quality of life. It is a chronic brain disorder and doesn’t happen from having a lack of willpower or as a result of making bad decisions, because the brain chemistry changes with addiction. Symptoms of addition include signs include inability to stop, increased tolerance, intense focus on the substance or activity, lack of control, personal problems and health issues, withdrawal.
+
+addiction type/substance addictions: Substances are drugs that have addiction potential. They can be prescription medications or non-medical drugs and include alcohol, caffeine, cannabis i.e.marijuana, hallucinogens, such as PCP and LSD, hypnotics, sedatives and anxiolytics i.e. anti-anxiety drugs, such as sleeping pills, benzodiazepines and barbiturates, inhalants, such as paint thinners, aerosol sprays, gases and nitrites or poppers, prescription and non-prescription opioids, such as codeine, oxycodone and heroine, prescription and non-prescription stimulants, such as cocaine and methamphetamine, tobacco or nicotine, such as smoking cigarettes and electronic cigarettes i.e. e-cigarettes or vaping. While these substances are very different from each other, they all strongly activate the reward center of brain and produce feelings of pleasure. Use of these substances can lead to substance use disorders — but not always. It can be mild, moderate or severe. Addiction is the most severe form of a substance abuse disorder.
+
+addiction type/behavioral addictions: can occur with any activity that’s capable of stimulating your brain’s reward system, including gambling, eating, exercising or dieting, shopping, shoplifting or other risky behaviors, having sex, viewing pornography, video gaming, using the internet. Any activity or habit that becomes all-consuming and negatively impacts daily functioning can cause significant mental, social and physical health issues, as well as financial issues in some cases.
+
+addiction cause: a significant part of how addiction develops is through changes in brain chemistry, related to a chemical called dopamine released by human body, which makes you feel pleasure. It becomes a cycle for humans to seek out these experiences because they reward us with good feelings. However, unlike healthy behaviour, addictive substances and activities send massive surges of dopamine through brain that can create an unhealthy drive to seek more pleasure from the substance or activity and less from healthier activities. Over time, the substances or activities change brain chemistry. You become less sensitive to their effects and need more to produce the same effect. The withdrawal symptoms when stopping the activities or using the substances are so severe that they create significant motivation to continue using them. Other factors that contribute to the development of addictions include genetics, mental health conditions, and environmental factors such as the extent of exposure and the opportunity for access to the addictive substance or activities.
