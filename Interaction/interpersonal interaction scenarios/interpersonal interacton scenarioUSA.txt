@@ -1,3 +1,14 @@
+category: select one from business, workplace, politics, war, family, friends or romance
+time period: the year when the matter happens as per Gregory calender
+location: the name of the country where the matter happens
+matter: one sentence summary of the matter
+actors: the names and roles of involved people and/or organizations 
+result: one sentence summary of the result of the matter
+strategy: strategy used by each involved person or organization
+description: detailed description of the matter from the beginning to the end 
+
+
+
 category: business
 business name: Paramount
 time period: 2024
