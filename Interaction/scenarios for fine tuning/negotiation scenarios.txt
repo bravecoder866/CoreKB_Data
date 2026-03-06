@@ -1,11 +1,13 @@
-negotiation time period: the year when the negotiation happens as per Gregory calender
-negotiation location: the name of the country where the negotiation happens
-negotiation subject matter: one sentence summary
-negotiation parties: the names and roles of involved people and/or organizations 
-negotiation result: one sentence summary of the result of the negotiation
-negotiation strategy: strategy used by each involved person or organization in the negotiation
-negotiation description: detailed description of the negotiation from the beginning to the end 
-
+time: Year xxxx 
+context: Organizations, Industry, Country[their traits]
+interaction type: negotiation 
+Actors: Names and Roles [their traits. organizations could be actors]
+subject matter: one sentence summary
+scenario description: detailed description of the scenaro
+interactions: parties interactive actions, thoughts and feelings
+needs/goals: needs and goals of each party
+strategy: strategy used by each involved person or organization in the negotiation
+result: one sentence summary of the result of the negotiation
 
 negotiation domain: diplomatic and security
 negotiation time period: 2008 

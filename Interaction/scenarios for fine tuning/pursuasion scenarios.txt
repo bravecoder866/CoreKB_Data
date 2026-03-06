@@ -1,0 +1,10 @@
+time: Year xxxx 
+context: Organizations, Industry, Country[their traits]
+interaction type: pursuasion 
+actors: Names and Roles [their traits. organizations could be actors]
+subject matter: one sentence summary
+scenario description: detailed description of the scenaro
+interactions: parties interactive actions, thoughts and feelings
+needs/goals: needs and goals of each party
+strategy: strategy used by each involved person or organization in the negotiation
+result: one sentence summary of the result of the negotiation
