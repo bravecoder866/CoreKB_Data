@@ -129,6 +129,66 @@ negotiation strategy: LockStore initially used a product superiority pitch strat
 negotiation description: LockStore develops a device that can detect leaks from gas storage tanks with higher performance and lower costs than existing options, and its sales engineers approach prospective industrial buyers expecting the usual commercial conversation about features, price, and installation. The buyers react in a way that surprises LockStore because they agree the device is impressive and the price is attractive, yet they decline to buy, explaining that adopting a superior detection tool would likely trigger regulatory scrutiny, legal exposure, and public relations problems, and could force expensive remediation actions that competitors might avoid if they continue using weaker monitoring methods. In effect, the buyers see the device not as a competitive advantage but as a unilateral burden because it would make them the only ones held to a higher operational standard. With that underlying incentive structure, there is no workable zone of agreement in a simple seller to customer negotiation, because even better pricing or contract tweaks do not solve the core fear of being singled out. The book’s point is that the real path to agreement requires changing the setup, expanding the negotiation beyond the immediate buyers to include parties who shape the rules and the market, especially regulators who could mandate best available monitoring technology for all tank owners. If a higher standard became industry-wide, the same buyers would no longer face the first mover penalty, and LockStore could transform resistance into broad adoption by negotiating upstream on policy, building coalitions, and potentially bringing competitors in through licensing so that the new standard becomes normal rather than risky.
 
 
+
+
+                 previous state of interactions 2: Lockstore develops a new gas leak detection device with higher performance and lower cost.
+                              previous behavior 2:
+                                            behavior: Lockstore approaches prospective buyers to sell their new device.
+                                               actor: Lockstore
+                                         needs/goals: sell their new device to potential customers
+                                               thing: Lockstore tries to sell its new device which can detect gas leak with better performance and lower cost.
+                                             context: the current standard in the gas leak detection device industry set out by the regulators is lower than what Lockstore's new device can perform.  Using a device with high performance could trigger egulatory scrutiny, legal exposure, and public relations problems, while other competitors still use the existing device which has lower peformance.  Even though the new device can lower the cost, the burdern it leads to is not acceptable to customers unlesss the regulators change the regulations and raise the standards, so players in the industry must comply.                                         
+                                            strategy: used a product superiority pitch strategy by focusing on faster better cheaper and assuming technical performance would close the deal. 
+                                             
+
+                previous state of interactions 1: Lockstore sales engineers present to the prospective industrial buyers the features, price, and installation of the new device. Potential buyers are evalauating the new device and proposal.
+                              previous behavor 1:
+                                            behavior: Potential buyers decline to buy Lockstore's new device because it will impose unilateral burden if other competitors continue to use existing device.
+                                               actor: Potential buyers
+                                         needs/goals: like the better performance of new device and lower cost but avoiding the burden which the device might lead to overweights than cost-saving and better performance.      
+                                               thing: Lockstore tries to sell their new device which can detect gas leak with better performance and lower cost.
+                                              context: the current standard in the gas leak detection device industry set out by the regulators is lower than what Lockstore's new device can perform.  Using a device with high performance could trigger egulatory scrutiny, legal exposure, and public relations problems, while other competitors still use the existing device which has lower peformance.  Even though the new device can lower the cost, the burdern it leads to is not acceptable to customers unlesss the regulators change the regulations and raise the standards, so players in the industry must comply.                                         
+                                             strategy: use risk avoidance and first mover resistance by praising the technology while refusing purchase.
+                                             
+[from here, use Behavior Predicted Framework to predict probability of each behavior ]
+                  
+                  current state of interactions 0: Lockstore's negotiation with customer to sell its device fails.
+                                  next behavior 0:
+                                            behavior: Lockstore initiates discussions with regulators, customers and other suppliers abou raising the current compliance standard of gas leak detection device.
+                                               actor: Lockstore
+                                         needs/goals: Lockstore need to form alliance, work with regulators to upgrade the compliance standards in the industry.
+                                               thing: Lockstore tries to sell their new device which can detect gas leak with better performance and lower cost.
+                                             context: the current standard in the gas leak detection device industry set out by the regulators is lower than what Lockstore's new device can perform.  Using a device with high performance could trigger egulatory scrutiny, legal exposure, and public relations problems, while other competitors still use the existing device which has lower peformance.  Even though the new device can lower the cost, the burdern it leads to is not acceptable to customers unlesss the regulators change the regulations and raise the standards, so players in the industry must comply.                                          
+                                            strategy: alliance with customers, regulators and suppliers. Technology licensing.
+ probability that the actor will commit the behavior: 0.8                          
+            
+            predicted next state of interactions 1:
+                         predicted next behavior 1:
+                                            behavior:
+                                               actor:
+                                         needs/goals:
+                                               thing:
+                                               context:
+                                            strategy:
+                                             tactics:
+            
+            predicted next state of interactions 2:                     
+                         predicted next behavior 2:              
+                                            behavior:
+                                               actor:
+                                         needs/goals:
+                                               thing:
+                                             context:
+                                            strategy:
+                                             tactics:
+           
+            predicted final state of interactions:
+
+
+
+
+
+
 negotiation domain: commercial transaction
 negotiation time period: 1996
 negotiation location: United States
